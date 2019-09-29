@@ -9,17 +9,6 @@ YCbCr Matrix: TV.601
 PlayResX: 1280
 PlayResY: 720
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: 物述有栖_190922_0805_BiliBili_【B站限定】朝!!!!!!!!!!!.mp4
-Video File: 物述有栖_190922_0805_BiliBili_【B站限定】朝!!!!!!!!!!!.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 324
-Active Line: 333
-Video Position: 64849
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
