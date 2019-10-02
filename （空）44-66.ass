@@ -6,17 +6,16 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-PlayResX: 1920
-PlayResY: 1080
+PlayResX: 1280
+PlayResY: 720
 
 [Aegisub Project Garbage]
-Last Style Storage: ALICE
+Last Style Storage: alice-new
 Audio File: F:/googledownloas/【建設地視察】♡今月を振り返りながら朝散歩♡【ここはどこ】 (1).mp4
 Video File: F:/googledownloas/【建設地視察】♡今月を振り返りながら朝散歩♡【ここはどこ】 (1).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 335
 Active Line: 349
 Video Position: 119688
 
@@ -94,7 +93,7 @@ Dialogue: 0,0:47:29.44,0:47:30.06,爱丽丝CN,,0,0,0,,
 Dialogue: 0,0:47:30.90,0:47:33.14,爱丽丝CN,,0,0,0,,
 Dialogue: 0,0:47:33.94,0:47:35.64,爱丽丝CN,,0,0,0,,
 Dialogue: 0,0:47:38.22,0:47:39.10,爱丽丝CN,,0,0,0,,
-Dialogue: 0,0:47:41.32,0:47:44.88,爱丽丝CN,,0,0,0,, 
+Dialogue: 0,0:47:41.32,0:47:44.88,爱丽丝CN,,0,0,0,,
 Dialogue: 0,0:47:45.22,0:47:48.92,爱丽丝CN,,0,0,0,,
 Dialogue: 0,0:47:49.10,0:47:51.36,爱丽丝CN,,0,0,0,,
 Dialogue: 0,0:47:51.72,0:47:54.06,爱丽丝CN,,0,0,0,,
@@ -135,7 +134,7 @@ Dialogue: 0,0:49:59.96,0:50:00.90,爱丽丝CN,,0,0,0,,
 Dialogue: 0,0:50:01.84,0:50:06.36,爱丽丝CN,,0,0,0,,
 Dialogue: 0,0:50:11.26,0:50:14.46,爱丽丝CN,,0,0,0,,
 Dialogue: 0,0:50:15.20,0:50:17.12,爱丽丝CN,,0,0,0,,
-Dialogue: 0,0:50:18.04,0:50:21.94,爱丽丝CN,,0,0,0,, 
+Dialogue: 0,0:50:18.04,0:50:21.94,爱丽丝CN,,0,0,0,,
 Dialogue: 0,0:50:23.78,0:50:26.12,爱丽丝CN,,0,0,0,,
 Dialogue: 0,0:50:26.86,0:50:29.70,爱丽丝CN,,0,0,0,,
 Dialogue: 0,0:50:31.02,0:50:34.16,爱丽丝CN,,0,0,0,,
@@ -312,7 +311,7 @@ Dialogue: 0,1:01:18.58,1:01:20.88,爱丽丝CN,,0,0,0,,
 Dialogue: 0,1:01:21.28,1:01:25.96,爱丽丝CN,,0,0,0,,
 Dialogue: 0,1:01:26.62,1:01:28.08,爱丽丝CN,,0,0,0,,
 Dialogue: 0,1:01:28.58,1:01:32.02,爱丽丝CN,,0,0,0,,
-Dialogue: 0,1:01:32.42,1:01:37.70,爱丽丝CN,,0,0,0,, 
+Dialogue: 0,1:01:32.42,1:01:37.70,爱丽丝CN,,0,0,0,,
 Dialogue: 0,1:01:39.44,1:01:40.52,爱丽丝CN,,0,0,0,,
 Dialogue: 0,1:01:42.34,1:01:43.88,爱丽丝CN,,0,0,0,,
 Dialogue: 0,1:01:44.94,1:01:45.82,爱丽丝CN,,0,0,0,,
