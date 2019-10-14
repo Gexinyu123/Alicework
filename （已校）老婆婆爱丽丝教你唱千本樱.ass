@@ -11,14 +11,13 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: CCLL
-Audio File: 老婆婆爱丽丝教你唱千本樱.mp4
-Video File: 老婆婆爱丽丝教你唱千本樱.mp4
+Audio File: D:/Arbeiten/Alice/剪辑/老婆婆爱丽丝教你唱千本樱.mp4
+Video File: D:/Arbeiten/Alice/剪辑/老婆婆爱丽丝教你唱千本樱.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 163
-Active Line: 170
-Video Position: 12305
+Active Line: 159
+Video Position: 12416
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,18 +46,7 @@ Style: songs - INFO,思源黑体 Medium,40,&H00FFFFFF,&H000000FF,&H00FF7720,&H00
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.50,0:00:02.50,songs,,0,0,0,code once,
-Comment: 0,0:00:02.50,0:00:04.50,songs,,0,0,0,template line notext,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Comment: 0,0:00:02.50,0:00:04.50,songs,,0,0,0,template line notext,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Comment: 0,0:00:02.50,0:00:04.50,songs,,0,0,0,template line notext,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Comment: 0,0:00:02.50,0:00:04.50,songs,,0,0,0,template line notext,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Comment: 0,0:00:02.50,0:00:04.50,songs,,0,0,0,template line notext,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Comment: 0,0:00:02.50,0:00:04.50,songs - 顶端,,0,0,0,template line notext,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Comment: 0,0:00:02.50,0:00:04.50,songs - 顶端,,0,0,0,template line notext,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Comment: 0,0:00:02.50,0:00:04.50,songs - 顶端,,0,0,0,template line notext,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Comment: 0,0:00:02.50,0:00:04.50,songs - 顶端,,0,0,0,template line notext,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Comment: 0,0:00:02.50,0:00:04.50,songs - 顶端,,0,0,0,template line notext,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Comment: 0,0:00:04.50,0:00:06.50,songs,,0,0,0,template line all,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}
+Comment: 0,0:00:04.50,0:00:06.50,songs,,0,0,0,template line all,{\blur3\fad(200,200)}
 Dialogue: 0,0:00:06.50,0:00:07.94,爱丽丝CN,,0,0,0,FXX,还有就是
 Dialogue: 0,0:00:07.94,0:00:10.96,爱丽丝CN,,0,0,0,FXX,「千本樱」吗？千本樱和…
 Dialogue: 0,0:00:12.82,0:00:16.32,爱丽丝JP - 顶端,,0,0,0,FXX,千本桜
@@ -217,520 +205,90 @@ Comment: 0,0:06:13.88,0:06:17.00,songs - 顶端,,0,0,0,karaoke,此処は宴鋼�
 Comment: 0,0:06:13.88,0:06:17.00,songs,,0,0,0,karaoke,铁牢之中宴请众人
 Comment: 0,0:06:17.00,0:06:22.52,songs - 顶端,,0,0,0,karaoke,さあ光線銃を撃ちまくれ
 Comment: 0,0:06:17.00,0:06:22.52,songs,,0,0,0,karaoke,全力扣响光线枪的扳机吧
-Dialogue: 0,0:06:47.84,0:06:56.93,EDStaff,,0,0,0,,{\pos(28,23)}剪辑：日茗\N时轴：scrpr\N翻译：Decmoe47\N校对：春日有明
-Dialogue: 0,0:03:19.72,0:03:22.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:19.72,0:03:22.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:19.72,0:03:22.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:19.72,0:03:22.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:19.72,0:03:22.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:19.72,0:03:22.98,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}大胆不敵にハイカラ革命
-Dialogue: 0,0:03:19.72,0:03:22.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:19.72,0:03:22.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:19.72,0:03:22.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:19.72,0:03:22.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:19.72,0:03:22.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:19.72,0:03:22.98,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}英勇无畏维新革命
-Dialogue: 0,0:03:27.52,0:03:29.10,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:27.52,0:03:29.10,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:27.52,0:03:29.10,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:27.52,0:03:29.10,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:27.52,0:03:29.10,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:27.52,0:03:29.10,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}…二輪車転がし
-Dialogue: 0,0:03:27.52,0:03:29.10,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:27.52,0:03:29.10,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:27.52,0:03:29.10,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:27.52,0:03:29.10,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:27.52,0:03:29.10,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:27.52,0:03:29.10,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}…印记的二轮车
-Dialogue: 0,0:03:29.10,0:03:32.22,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:29.10,0:03:32.22,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:29.10,0:03:32.22,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:29.10,0:03:32.22,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:29.10,0:03:32.22,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:29.10,0:03:32.22,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}悪霊退散 ICBM
-Dialogue: 0,0:03:29.10,0:03:32.22,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:29.10,0:03:32.22,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:29.10,0:03:32.22,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:29.10,0:03:32.22,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:29.10,0:03:32.22,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:29.10,0:03:32.22,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}恶灵退散 ICBM
-Dialogue: 0,0:03:32.22,0:03:35.10,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:32.22,0:03:35.10,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:32.22,0:03:35.10,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:32.22,0:03:35.10,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:32.22,0:03:35.10,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:32.22,0:03:35.10,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}環状線を走り抜けて
-Dialogue: 0,0:03:32.22,0:03:35.10,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:32.22,0:03:35.10,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:32.22,0:03:35.10,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:32.22,0:03:35.10,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:32.22,0:03:35.10,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:32.22,0:03:35.10,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}疾行穿过环状线
-Dialogue: 0,0:03:35.32,0:03:38.26,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:35.32,0:03:38.26,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:35.32,0:03:38.26,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:35.32,0:03:38.26,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:35.32,0:03:38.26,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:35.32,0:03:38.26,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}東奔西走なんのその
-Dialogue: 0,0:03:35.32,0:03:38.26,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:35.32,0:03:38.26,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:35.32,0:03:38.26,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:35.32,0:03:38.26,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:35.32,0:03:38.26,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:35.32,0:03:38.26,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}东奔西走在所不辞
-Dialogue: 0,0:03:38.34,0:03:41.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:38.34,0:03:41.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:38.34,0:03:41.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:38.34,0:03:41.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:38.34,0:03:41.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:38.34,0:03:41.20,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}少年少女戦国無双
-Dialogue: 0,0:03:38.34,0:03:41.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:38.34,0:03:41.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:38.34,0:03:41.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:38.34,0:03:41.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:38.34,0:03:41.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:38.34,0:03:41.20,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}少年少女战国无双
-Dialogue: 0,0:03:41.20,0:03:44.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:41.20,0:03:44.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:41.20,0:03:44.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:41.20,0:03:44.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:41.20,0:03:44.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:41.20,0:03:44.20,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}浮世の随に
-Dialogue: 0,0:03:41.20,0:03:44.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:41.20,0:03:44.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:41.20,0:03:44.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:41.20,0:03:44.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:41.20,0:03:44.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:41.20,0:03:44.20,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}尘世若梦唯有随之沉浮
-Dialogue: 0,0:03:44.20,0:03:47.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:44.20,0:03:47.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:44.20,0:03:47.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:44.20,0:03:47.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:44.20,0:03:47.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:44.20,0:03:47.38,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}千本桜 夜ニ紛レ
-Dialogue: 0,0:03:44.20,0:03:47.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:44.20,0:03:47.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:44.20,0:03:47.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:44.20,0:03:47.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:44.20,0:03:47.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:44.20,0:03:47.38,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}千本樱 溶入夜色中
-Dialogue: 0,0:03:47.38,0:03:50.46,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:47.38,0:03:50.46,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:47.38,0:03:50.46,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:47.38,0:03:50.46,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:47.38,0:03:50.46,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:47.38,0:03:50.46,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}君ノ声モ届カナイヨ
-Dialogue: 0,0:03:47.38,0:03:50.46,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:47.38,0:03:50.46,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:47.38,0:03:50.46,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:47.38,0:03:50.46,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:47.38,0:03:50.46,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:47.38,0:03:50.46,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}你的声音亦无法传达
-Dialogue: 0,0:03:50.46,0:03:53.50,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:50.46,0:03:53.50,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:50.46,0:03:53.50,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:50.46,0:03:53.50,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:50.46,0:03:53.50,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:50.46,0:03:53.50,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}此処は宴鋼の檻
-Dialogue: 0,0:03:50.46,0:03:53.50,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:50.46,0:03:53.50,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:50.46,0:03:53.50,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:50.46,0:03:53.50,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:50.46,0:03:53.50,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:50.46,0:03:53.50,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}铁牢之中宴请众人
-Dialogue: 0,0:03:53.50,0:03:56.76,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:53.50,0:03:56.76,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:53.50,0:03:56.76,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:53.50,0:03:56.76,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:53.50,0:03:56.76,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:53.50,0:03:56.76,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}その断頭台で見下ろして
-Dialogue: 0,0:03:53.50,0:03:56.76,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:53.50,0:03:56.76,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:53.50,0:03:56.76,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:53.50,0:03:56.76,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:53.50,0:03:56.76,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:53.50,0:03:56.76,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}断头台上俯视众生
-Dialogue: 0,0:03:56.76,0:03:59.86,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:56.76,0:03:59.86,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:56.76,0:03:59.86,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:56.76,0:03:59.86,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:56.76,0:03:59.86,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:56.76,0:03:59.86,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}三千世界 常世之闇
-Dialogue: 0,0:03:56.76,0:03:59.86,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:56.76,0:03:59.86,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:56.76,0:03:59.86,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:56.76,0:03:59.86,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:56.76,0:03:59.86,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:56.76,0:03:59.86,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}三千世界 黄泉之暗
-Dialogue: 0,0:03:59.86,0:04:02.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:59.86,0:04:02.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:59.86,0:04:02.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:59.86,0:04:02.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:59.86,0:04:02.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:59.86,0:04:02.98,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}嘆ク唄モ聞コエナイヨ
-Dialogue: 0,0:03:59.86,0:04:02.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:59.86,0:04:02.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:59.86,0:04:02.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:59.86,0:04:02.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:59.86,0:04:02.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:03:59.86,0:04:02.98,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}悲叹之曲亦不可听闻
-Dialogue: 0,0:04:02.98,0:04:06.02,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:02.98,0:04:06.02,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:02.98,0:04:06.02,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:02.98,0:04:06.02,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:02.98,0:04:06.02,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:02.98,0:04:06.02,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}青藍の空遥か彼方
-Dialogue: 0,0:04:02.98,0:04:06.02,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:02.98,0:04:06.02,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:02.98,0:04:06.02,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:02.98,0:04:06.02,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:02.98,0:04:06.02,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:02.98,0:04:06.02,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}那青蓝苍穹的遥远彼方
-Dialogue: 0,0:04:06.02,0:04:11.52,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:06.02,0:04:11.52,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:06.02,0:04:11.52,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:06.02,0:04:11.52,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:06.02,0:04:11.52,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:06.02,0:04:11.52,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}その光線銃で打ち抜いて
-Dialogue: 0,0:04:06.02,0:04:11.52,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:06.02,0:04:11.52,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:06.02,0:04:11.52,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:06.02,0:04:11.52,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:06.02,0:04:11.52,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:06.02,0:04:11.52,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}就以那光线枪击穿吧
-Dialogue: 0,0:04:22.02,0:04:25.22,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:22.02,0:04:25.22,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:22.02,0:04:25.22,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:22.02,0:04:25.22,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:22.02,0:04:25.22,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:22.02,0:04:25.22,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}百戦錬磨の見た目は将校
-Dialogue: 0,0:04:22.02,0:04:25.22,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:22.02,0:04:25.22,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:22.02,0:04:25.22,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:22.02,0:04:25.22,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:22.02,0:04:25.22,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:22.02,0:04:25.22,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}百战磨炼似是将校之人
-Dialogue: 0,0:04:25.22,0:04:28.30,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:25.22,0:04:28.30,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:25.22,0:04:28.30,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:25.22,0:04:28.30,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:25.22,0:04:28.30,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:25.22,0:04:28.30,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}いったりきたりの花魁道中
-Dialogue: 0,0:04:25.22,0:04:28.30,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:25.22,0:04:28.30,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:25.22,0:04:28.30,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:25.22,0:04:28.30,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:25.22,0:04:28.30,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:25.22,0:04:28.30,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}人来人往的花魁道中
-Dialogue: 0,0:04:28.30,0:04:31.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:28.30,0:04:31.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:28.30,0:04:31.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:28.30,0:04:31.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:28.30,0:04:31.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:28.30,0:04:31.38,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}アイツもコイツも皆で集まれ
-Dialogue: 0,0:04:28.30,0:04:31.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:28.30,0:04:31.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:28.30,0:04:31.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:28.30,0:04:31.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:28.30,0:04:31.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:28.30,0:04:31.38,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}无论是谁全都聚结起来
-Dialogue: 0,0:04:31.38,0:04:34.40,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:31.38,0:04:34.40,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:31.38,0:04:34.40,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:31.38,0:04:34.40,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:31.38,0:04:34.40,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:31.38,0:04:34.40,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}聖者の行進 わんっつーさんしっ
-Dialogue: 0,0:04:31.38,0:04:34.40,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:31.38,0:04:34.40,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:31.38,0:04:34.40,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:31.38,0:04:34.40,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:31.38,0:04:34.40,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:31.38,0:04:34.40,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}圣者行进 One Two 三四
-Dialogue: 0,0:04:34.52,0:04:37.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:34.52,0:04:37.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:34.52,0:04:37.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:34.52,0:04:37.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:34.52,0:04:37.38,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:34.52,0:04:37.38,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}禅定門を潜り抜けて
-Dialogue: 0,0:04:34.52,0:04:37.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:34.52,0:04:37.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:34.52,0:04:37.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:34.52,0:04:37.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:34.52,0:04:37.38,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:34.52,0:04:37.38,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}从佛门之地中穿过
-Dialogue: 0,0:04:37.58,0:04:40.60,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:37.58,0:04:40.60,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:37.58,0:04:40.60,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:37.58,0:04:40.60,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:37.58,0:04:40.60,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:37.58,0:04:40.60,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}安楽浄土厄払い
-Dialogue: 0,0:04:37.58,0:04:40.60,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:37.58,0:04:40.60,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:37.58,0:04:40.60,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:37.58,0:04:40.60,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:37.58,0:04:40.60,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:37.58,0:04:40.60,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}安乐净土消灾除厄
-Dialogue: 0,0:04:40.76,0:04:43.50,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:40.76,0:04:43.50,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:40.76,0:04:43.50,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:40.76,0:04:43.50,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:40.76,0:04:43.50,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:40.76,0:04:43.50,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}きっと終幕は大団円
-Dialogue: 0,0:04:40.76,0:04:43.50,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:40.76,0:04:43.50,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:40.76,0:04:43.50,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:40.76,0:04:43.50,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:40.76,0:04:43.50,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:40.76,0:04:43.50,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}终焉之幕定是大团圆
-Dialogue: 0,0:04:43.50,0:04:46.60,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:43.50,0:04:46.60,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:43.50,0:04:46.60,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:43.50,0:04:46.60,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:43.50,0:04:46.60,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:43.50,0:04:46.60,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}拍手の合間に
-Dialogue: 0,0:04:43.50,0:04:46.60,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:43.50,0:04:46.60,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:43.50,0:04:46.60,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:43.50,0:04:46.60,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:43.50,0:04:46.60,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:43.50,0:04:46.60,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}在一片掌声之中
-Dialogue: 0,0:04:46.60,0:04:49.72,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:46.60,0:04:49.72,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:46.60,0:04:49.72,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:46.60,0:04:49.72,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:46.60,0:04:49.72,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:46.60,0:04:49.72,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}千本桜 夜ニ紛レ
-Dialogue: 0,0:04:46.60,0:04:49.72,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:46.60,0:04:49.72,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:46.60,0:04:49.72,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:46.60,0:04:49.72,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:46.60,0:04:49.72,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:46.60,0:04:49.72,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}千本樱 溶入夜色中
-Dialogue: 0,0:04:49.72,0:04:52.76,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:49.72,0:04:52.76,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:49.72,0:04:52.76,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:49.72,0:04:52.76,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:49.72,0:04:52.76,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:49.72,0:04:52.76,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}君ノ声モ届カナイヨ
-Dialogue: 0,0:04:49.72,0:04:52.76,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:49.72,0:04:52.76,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:49.72,0:04:52.76,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:49.72,0:04:52.76,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:49.72,0:04:52.76,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:49.72,0:04:52.76,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}你的声音亦传达不到
-Dialogue: 0,0:04:52.90,0:04:55.88,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:52.90,0:04:55.88,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:52.90,0:04:55.88,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:52.90,0:04:55.88,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:52.90,0:04:55.88,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:52.90,0:04:55.88,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}此処は宴鋼の檻
-Dialogue: 0,0:04:52.90,0:04:55.88,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:52.90,0:04:55.88,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:52.90,0:04:55.88,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:52.90,0:04:55.88,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:52.90,0:04:55.88,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:52.90,0:04:55.88,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}铁牢之中宴请众人
-Dialogue: 0,0:04:55.88,0:04:59.02,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:55.88,0:04:59.02,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:55.88,0:04:59.02,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:55.88,0:04:59.02,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:55.88,0:04:59.02,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:55.88,0:04:59.02,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}その断頭台で見下ろして
-Dialogue: 0,0:04:55.88,0:04:59.02,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:55.88,0:04:59.02,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:55.88,0:04:59.02,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:55.88,0:04:59.02,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:55.88,0:04:59.02,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:55.88,0:04:59.02,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}断头台上俯视众生
-Dialogue: 0,0:04:59.02,0:05:02.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:59.02,0:05:02.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:59.02,0:05:02.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:59.02,0:05:02.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:59.02,0:05:02.20,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:59.02,0:05:02.20,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}三千世界 常世之闇
-Dialogue: 0,0:04:59.02,0:05:02.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:59.02,0:05:02.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:59.02,0:05:02.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:59.02,0:05:02.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:59.02,0:05:02.20,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:04:59.02,0:05:02.20,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}三千世界 黄泉之暗
-Dialogue: 0,0:05:02.20,0:05:05.28,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:02.20,0:05:05.28,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:02.20,0:05:05.28,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:02.20,0:05:05.28,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:02.20,0:05:05.28,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:02.20,0:05:05.28,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}嘆ク唄モ聞コエナイヨ
-Dialogue: 0,0:05:02.20,0:05:05.28,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:02.20,0:05:05.28,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:02.20,0:05:05.28,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:02.20,0:05:05.28,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:02.20,0:05:05.28,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:02.20,0:05:05.28,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}悲叹之曲亦不可听闻
-Dialogue: 0,0:05:05.28,0:05:08.32,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:05.28,0:05:08.32,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:05.28,0:05:08.32,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:05.28,0:05:08.32,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:05.28,0:05:08.32,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:05.28,0:05:08.32,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}希望の丘遥か彼方
-Dialogue: 0,0:05:05.28,0:05:08.32,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:05.28,0:05:08.32,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:05.28,0:05:08.32,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:05.28,0:05:08.32,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:05.28,0:05:08.32,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:05.28,0:05:08.32,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}朝着希望之丘遥望彼方
-Dialogue: 0,0:05:08.32,0:05:12.94,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:08.32,0:05:12.94,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:08.32,0:05:12.94,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:08.32,0:05:12.94,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:08.32,0:05:12.94,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:08.32,0:05:12.94,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}その閃光弾を打ち上げろ
-Dialogue: 0,0:05:08.32,0:05:12.94,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:08.32,0:05:12.94,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:08.32,0:05:12.94,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:08.32,0:05:12.94,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:08.32,0:05:12.94,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:08.32,0:05:12.94,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}将那闪光弹射上天空
-Dialogue: 0,0:05:43.12,0:05:45.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:43.12,0:05:45.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:43.12,0:05:45.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:43.12,0:05:45.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:43.12,0:05:45.98,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:43.12,0:05:45.98,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}環状線を走り抜けて
-Dialogue: 0,0:05:43.12,0:05:45.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:43.12,0:05:45.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:43.12,0:05:45.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:43.12,0:05:45.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:43.12,0:05:45.98,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:43.12,0:05:45.98,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}疾行穿过环状线
-Dialogue: 0,0:05:46.16,0:05:49.16,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:46.16,0:05:49.16,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:46.16,0:05:49.16,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:46.16,0:05:49.16,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:46.16,0:05:49.16,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:46.16,0:05:49.16,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}東奔西走なんのその
-Dialogue: 0,0:05:46.16,0:05:49.16,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:46.16,0:05:49.16,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:46.16,0:05:49.16,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:46.16,0:05:49.16,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:46.16,0:05:49.16,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:46.16,0:05:49.16,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}东奔西走在所不辞
-Dialogue: 0,0:05:49.30,0:05:52.08,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:49.30,0:05:52.08,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:49.30,0:05:52.08,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:49.30,0:05:52.08,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:49.30,0:05:52.08,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:49.30,0:05:52.08,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}少年少女戦国無双
-Dialogue: 0,0:05:49.30,0:05:52.08,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:49.30,0:05:52.08,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:49.30,0:05:52.08,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:49.30,0:05:52.08,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:49.30,0:05:52.08,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:49.30,0:05:52.08,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}少年少女战国无双
-Dialogue: 0,0:05:52.08,0:05:55.12,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:52.08,0:05:55.12,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:52.08,0:05:55.12,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:52.08,0:05:55.12,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:52.08,0:05:55.12,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:52.08,0:05:55.12,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}浮世の随に
-Dialogue: 0,0:05:52.08,0:05:55.12,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:52.08,0:05:55.12,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:52.08,0:05:55.12,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:52.08,0:05:55.12,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:52.08,0:05:55.12,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:52.08,0:05:55.12,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}尘世若梦唯有随之沉浮
-Dialogue: 0,0:05:55.20,0:05:58.32,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:55.20,0:05:58.32,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:55.20,0:05:58.32,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:55.20,0:05:58.32,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:55.20,0:05:58.32,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:55.20,0:05:58.32,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}千本桜夜ニ紛レ
-Dialogue: 0,0:05:55.20,0:05:58.32,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:55.20,0:05:58.32,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:55.20,0:05:58.32,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:55.20,0:05:58.32,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:55.20,0:05:58.32,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:55.20,0:05:58.32,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}千本樱夜中飞散
-Dialogue: 0,0:05:58.32,0:06:01.40,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:58.32,0:06:01.40,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:58.32,0:06:01.40,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:58.32,0:06:01.40,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:58.32,0:06:01.40,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:58.32,0:06:01.40,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}君ノ声モ届カナイヨ
-Dialogue: 0,0:05:58.32,0:06:01.40,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:58.32,0:06:01.40,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:58.32,0:06:01.40,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:58.32,0:06:01.40,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:58.32,0:06:01.40,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:05:58.32,0:06:01.40,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}你的声音亦传达不到
-Dialogue: 0,0:06:01.40,0:06:04.42,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:01.40,0:06:04.42,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:01.40,0:06:04.42,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:01.40,0:06:04.42,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:01.40,0:06:04.42,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:01.40,0:06:04.42,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}此処は宴鋼の檻
-Dialogue: 0,0:06:01.40,0:06:04.42,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:01.40,0:06:04.42,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:01.40,0:06:04.42,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:01.40,0:06:04.42,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:01.40,0:06:04.42,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:01.40,0:06:04.42,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}铁牢之中宴请众人
-Dialogue: 0,0:06:04.42,0:06:07.58,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:04.42,0:06:07.58,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:04.42,0:06:07.58,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:04.42,0:06:07.58,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:04.42,0:06:07.58,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:04.42,0:06:07.58,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}その断頭台を飛び降りて
-Dialogue: 0,0:06:04.42,0:06:07.58,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:04.42,0:06:07.58,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:04.42,0:06:07.58,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:04.42,0:06:07.58,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:04.42,0:06:07.58,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:04.42,0:06:07.58,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}自那断头台上跳下
-Dialogue: 0,0:06:07.58,0:06:10.72,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:07.58,0:06:10.72,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:07.58,0:06:10.72,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:07.58,0:06:10.72,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:07.58,0:06:10.72,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:07.58,0:06:10.72,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}千本桜夜ニ紛レ
-Dialogue: 0,0:06:07.58,0:06:10.72,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:07.58,0:06:10.72,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:07.58,0:06:10.72,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:07.58,0:06:10.72,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:07.58,0:06:10.72,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:07.58,0:06:10.72,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}千本樱夜中飞散
-Dialogue: 0,0:06:10.72,0:06:13.80,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:10.72,0:06:13.80,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:10.72,0:06:13.80,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:10.72,0:06:13.80,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:10.72,0:06:13.80,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:10.72,0:06:13.80,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}君が歌い僕は踊る
-Dialogue: 0,0:06:10.72,0:06:13.80,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:10.72,0:06:13.80,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:10.72,0:06:13.80,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:10.72,0:06:13.80,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:10.72,0:06:13.80,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:10.72,0:06:13.80,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}你放声歌唱我翩翩起舞
-Dialogue: 0,0:06:13.88,0:06:17.00,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:13.88,0:06:17.00,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:13.88,0:06:17.00,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:13.88,0:06:17.00,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:13.88,0:06:17.00,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:13.88,0:06:17.00,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}此処は宴鋼の檻
-Dialogue: 0,0:06:13.88,0:06:17.00,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:13.88,0:06:17.00,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:13.88,0:06:17.00,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:13.88,0:06:17.00,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:13.88,0:06:17.00,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:13.88,0:06:17.00,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}铁牢之中宴请众人
-Dialogue: 0,0:06:17.00,0:06:22.52,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:17.00,0:06:22.52,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:17.00,0:06:22.52,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:17.00,0:06:22.52,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:17.00,0:06:22.52,songs - 顶端,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(641,53)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:17.00,0:06:22.52,songs - 顶端,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}さあ光線銃を撃ちまくれ
-Dialogue: 0,0:06:17.00,0:06:22.52,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz180)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:17.00,0:06:22.52,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz72\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz252)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:17.00,0:06:22.52,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz144\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz324)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:17.00,0:06:22.52,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz216\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz396)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:17.00,0:06:22.52,songs,,0,0,0,fx,{\p1\an7\fsc200\c&HCB72FF&\bord3\3c&HFFFFFF&\blur4\frz288\alpha&H09&\pos(637,626)\t(\alpha&HFF&\frz468)\fad(200,500)}m 0 0 b 9 -7 9 -18 0 -20 b -9 -18 -9 -7 0 0{\p0}
-Dialogue: 0,0:06:17.00,0:06:22.52,songs,,0,0,0,fx,{\c&HD77AF3&\3c&HFFFFFF&\3a&H30&\bord5\fad(500,500)}全力扣响光线枪的扳机吧
+Dialogue: 0,0:06:47.84,0:06:56.93,EDStaff,,0,0,0,FXX,{\pos(28,23)}剪辑：日茗\N时轴：scrpr\N翻译：Decmoe47\N校对：春日有明
+Dialogue: 0,0:03:19.72,0:03:22.98,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}大胆不敵にハイカラ革命
+Dialogue: 0,0:03:19.72,0:03:22.98,songs,,0,0,0,fx,{\blur3\fad(200,200)}英勇无畏维新革命
+Dialogue: 0,0:03:27.52,0:03:29.10,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}…二輪車転がし
+Dialogue: 0,0:03:27.52,0:03:29.10,songs,,0,0,0,fx,{\blur3\fad(200,200)}…印记的二轮车
+Dialogue: 0,0:03:29.10,0:03:32.22,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}悪霊退散 ICBM
+Dialogue: 0,0:03:29.10,0:03:32.22,songs,,0,0,0,fx,{\blur3\fad(200,200)}恶灵退散 ICBM
+Dialogue: 0,0:03:32.22,0:03:35.10,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}環状線を走り抜けて
+Dialogue: 0,0:03:32.22,0:03:35.10,songs,,0,0,0,fx,{\blur3\fad(200,200)}疾行穿过环状线
+Dialogue: 0,0:03:35.32,0:03:38.26,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}東奔西走なんのその
+Dialogue: 0,0:03:35.32,0:03:38.26,songs,,0,0,0,fx,{\blur3\fad(200,200)}东奔西走在所不辞
+Dialogue: 0,0:03:38.34,0:03:41.20,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}少年少女戦国無双
+Dialogue: 0,0:03:38.34,0:03:41.20,songs,,0,0,0,fx,{\blur3\fad(200,200)}少年少女战国无双
+Dialogue: 0,0:03:41.20,0:03:44.20,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}浮世の随に
+Dialogue: 0,0:03:41.20,0:03:44.20,songs,,0,0,0,fx,{\blur3\fad(200,200)}尘世若梦唯有随之沉浮
+Dialogue: 0,0:03:44.20,0:03:47.38,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}千本桜 夜ニ紛レ
+Dialogue: 0,0:03:44.20,0:03:47.38,songs,,0,0,0,fx,{\blur3\fad(200,200)}千本樱 溶入夜色中
+Dialogue: 0,0:03:47.38,0:03:50.46,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}君ノ声モ届カナイヨ
+Dialogue: 0,0:03:47.38,0:03:50.46,songs,,0,0,0,fx,{\blur3\fad(200,200)}你的声音亦无法传达
+Dialogue: 0,0:03:50.46,0:03:53.50,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}此処は宴鋼の檻
+Dialogue: 0,0:03:50.46,0:03:53.50,songs,,0,0,0,fx,{\blur3\fad(200,200)}铁牢之中宴请众人
+Dialogue: 0,0:03:53.50,0:03:56.76,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}その断頭台で見下ろして
+Dialogue: 0,0:03:53.50,0:03:56.76,songs,,0,0,0,fx,{\blur3\fad(200,200)}断头台上俯视众生
+Dialogue: 0,0:03:56.76,0:03:59.86,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}三千世界 常世之闇
+Dialogue: 0,0:03:56.76,0:03:59.86,songs,,0,0,0,fx,{\blur3\fad(200,200)}三千世界 黄泉之暗
+Dialogue: 0,0:03:59.86,0:04:02.98,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}嘆ク唄モ聞コエナイヨ
+Dialogue: 0,0:03:59.86,0:04:02.98,songs,,0,0,0,fx,{\blur3\fad(200,200)}悲叹之曲亦不可听闻
+Dialogue: 0,0:04:02.98,0:04:06.02,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}青藍の空遥か彼方
+Dialogue: 0,0:04:02.98,0:04:06.02,songs,,0,0,0,fx,{\blur3\fad(200,200)}那青蓝苍穹的遥远彼方
+Dialogue: 0,0:04:06.02,0:04:11.52,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}その光線銃で打ち抜いて
+Dialogue: 0,0:04:06.02,0:04:11.52,songs,,0,0,0,fx,{\blur3\fad(200,200)}就以那光线枪击穿吧
+Dialogue: 0,0:04:22.02,0:04:25.22,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}百戦錬磨の見た目は将校
+Dialogue: 0,0:04:22.02,0:04:25.22,songs,,0,0,0,fx,{\blur3\fad(200,200)}百战磨炼似是将校之人
+Dialogue: 0,0:04:25.22,0:04:28.30,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}いったりきたりの花魁道中
+Dialogue: 0,0:04:25.22,0:04:28.30,songs,,0,0,0,fx,{\blur3\fad(200,200)}人来人往的花魁道中
+Dialogue: 0,0:04:28.30,0:04:31.38,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}アイツもコイツも皆で集まれ
+Dialogue: 0,0:04:28.30,0:04:31.38,songs,,0,0,0,fx,{\blur3\fad(200,200)}无论是谁全都聚结起来
+Dialogue: 0,0:04:31.38,0:04:34.40,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}聖者の行進 わんっつーさんしっ
+Dialogue: 0,0:04:31.38,0:04:34.40,songs,,0,0,0,fx,{\blur3\fad(200,200)}圣者行进 One Two 三四
+Dialogue: 0,0:04:34.52,0:04:37.38,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}禅定門を潜り抜けて
+Dialogue: 0,0:04:34.52,0:04:37.38,songs,,0,0,0,fx,{\blur3\fad(200,200)}从佛门之地中穿过
+Dialogue: 0,0:04:37.58,0:04:40.60,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}安楽浄土厄払い
+Dialogue: 0,0:04:37.58,0:04:40.60,songs,,0,0,0,fx,{\blur3\fad(200,200)}安乐净土消灾除厄
+Dialogue: 0,0:04:40.76,0:04:43.50,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}きっと終幕は大団円
+Dialogue: 0,0:04:40.76,0:04:43.50,songs,,0,0,0,fx,{\blur3\fad(200,200)}终焉之幕定是大团圆
+Dialogue: 0,0:04:43.50,0:04:46.60,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}拍手の合間に
+Dialogue: 0,0:04:43.50,0:04:46.60,songs,,0,0,0,fx,{\blur3\fad(200,200)}在一片掌声之中
+Dialogue: 0,0:04:46.60,0:04:49.72,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}千本桜 夜ニ紛レ
+Dialogue: 0,0:04:46.60,0:04:49.72,songs,,0,0,0,fx,{\blur3\fad(200,200)}千本樱 溶入夜色中
+Dialogue: 0,0:04:49.72,0:04:52.76,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}君ノ声モ届カナイヨ
+Dialogue: 0,0:04:49.72,0:04:52.76,songs,,0,0,0,fx,{\blur3\fad(200,200)}你的声音亦传达不到
+Dialogue: 0,0:04:52.90,0:04:55.88,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}此処は宴鋼の檻
+Dialogue: 0,0:04:52.90,0:04:55.88,songs,,0,0,0,fx,{\blur3\fad(200,200)}铁牢之中宴请众人
+Dialogue: 0,0:04:55.88,0:04:59.02,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}その断頭台で見下ろして
+Dialogue: 0,0:04:55.88,0:04:59.02,songs,,0,0,0,fx,{\blur3\fad(200,200)}断头台上俯视众生
+Dialogue: 0,0:04:59.02,0:05:02.20,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}三千世界 常世之闇
+Dialogue: 0,0:04:59.02,0:05:02.20,songs,,0,0,0,fx,{\blur3\fad(200,200)}三千世界 黄泉之暗
+Dialogue: 0,0:05:02.20,0:05:05.28,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}嘆ク唄モ聞コエナイヨ
+Dialogue: 0,0:05:02.20,0:05:05.28,songs,,0,0,0,fx,{\blur3\fad(200,200)}悲叹之曲亦不可听闻
+Dialogue: 0,0:05:05.28,0:05:08.32,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}希望の丘遥か彼方
+Dialogue: 0,0:05:05.28,0:05:08.32,songs,,0,0,0,fx,{\blur3\fad(200,200)}朝着希望之丘遥望彼方
+Dialogue: 0,0:05:08.32,0:05:12.94,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}その閃光弾を打ち上げろ
+Dialogue: 0,0:05:08.32,0:05:12.94,songs,,0,0,0,fx,{\blur3\fad(200,200)}将那闪光弹射上天空
+Dialogue: 0,0:05:43.12,0:05:45.98,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}環状線を走り抜けて
+Dialogue: 0,0:05:43.12,0:05:45.98,songs,,0,0,0,fx,{\blur3\fad(200,200)}疾行穿过环状线
+Dialogue: 0,0:05:46.16,0:05:49.16,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}東奔西走なんのその
+Dialogue: 0,0:05:46.16,0:05:49.16,songs,,0,0,0,fx,{\blur3\fad(200,200)}东奔西走在所不辞
+Dialogue: 0,0:05:49.30,0:05:52.08,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}少年少女戦国無双
+Dialogue: 0,0:05:49.30,0:05:52.08,songs,,0,0,0,fx,{\blur3\fad(200,200)}少年少女战国无双
+Dialogue: 0,0:05:52.08,0:05:55.12,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}浮世の随に
+Dialogue: 0,0:05:52.08,0:05:55.12,songs,,0,0,0,fx,{\blur3\fad(200,200)}尘世若梦唯有随之沉浮
+Dialogue: 0,0:05:55.20,0:05:58.32,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}千本桜夜ニ紛レ
+Dialogue: 0,0:05:55.20,0:05:58.32,songs,,0,0,0,fx,{\blur3\fad(200,200)}千本樱夜中飞散
+Dialogue: 0,0:05:58.32,0:06:01.40,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}君ノ声モ届カナイヨ
+Dialogue: 0,0:05:58.32,0:06:01.40,songs,,0,0,0,fx,{\blur3\fad(200,200)}你的声音亦传达不到
+Dialogue: 0,0:06:01.40,0:06:04.42,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}此処は宴鋼の檻
+Dialogue: 0,0:06:01.40,0:06:04.42,songs,,0,0,0,fx,{\blur3\fad(200,200)}铁牢之中宴请众人
+Dialogue: 0,0:06:04.42,0:06:07.58,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}その断頭台を飛び降りて
+Dialogue: 0,0:06:04.42,0:06:07.58,songs,,0,0,0,fx,{\blur3\fad(200,200)}自那断头台上跳下
+Dialogue: 0,0:06:07.58,0:06:10.72,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}千本桜夜ニ紛レ
+Dialogue: 0,0:06:07.58,0:06:10.72,songs,,0,0,0,fx,{\blur3\fad(200,200)}千本樱夜中飞散
+Dialogue: 0,0:06:10.72,0:06:13.80,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}君が歌い僕は踊る
+Dialogue: 0,0:06:10.72,0:06:13.80,songs,,0,0,0,fx,{\blur3\fad(200,200)}你放声歌唱我翩翩起舞
+Dialogue: 0,0:06:13.88,0:06:17.00,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}此処は宴鋼の檻
+Dialogue: 0,0:06:13.88,0:06:17.00,songs,,0,0,0,fx,{\blur3\fad(200,200)}铁牢之中宴请众人
+Dialogue: 0,0:06:17.00,0:06:22.52,songs - 顶端,,0,0,0,fx,{\blur3\fad(200,200)}さあ光線銃を撃ちまくれ
+Dialogue: 0,0:06:17.00,0:06:22.52,songs,,0,0,0,fx,{\blur3\fad(200,200)}全力扣响光线枪的扳机吧
