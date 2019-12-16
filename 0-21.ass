@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: alice_guifan
-Audio File: 物述有栖_191018_2101_BiliBili_【B限】MinecraftVP服.mp4
-Video File: 物述有栖_191018_2101_BiliBili_【B限】MinecraftVP服.mp4
+Audio File: D:/爱丽丝/物述有栖_191018_2101_BiliBili_【B限】MinecraftVP服.mp4
+Video File: D:/爱丽丝/物述有栖_191018_2101_BiliBili_【B限】MinecraftVP服.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 105
-Active Line: 108
-Video Position: 14534
+Video Zoom Percent: 0.500000
+Scroll Position: 153
+Active Line: 163
+Video Position: 17542
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,403 +47,439 @@ Style: songs - INFO,思源黑体 Medium,40,&H00FFFFFF,&H000000FF,&H00FF7720,&H00
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,爱丽丝CN,,0,0,0,template line noblank,
-Comment: 0,0:00:00.00,0:00:00.00,爱丽丝CN,,0,0,0,template furi,{\fs32\pos($scenter,$sbottom)\an2}
-Dialogue: 0,0:03:07.76,0:03:10.36,爱丽丝CN,,0,0,0,karaoke,Good evening 晚上好
-Dialogue: 0,0:03:12.53,0:03:14.82,爱丽丝CN,,0,0,0,karaoke,声音 这样...啊等下
-Dialogue: 0,0:03:14.82,0:03:17.05,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:03:17.05,0:03:18.54,爱丽丝CN,,0,0,0,karaoke,晚上好
-Dialogue: 0,0:03:18.54,0:03:21.87,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:03:23.01,0:03:24.06,爱丽丝CN,,0,0,0,karaoke,那个
-Dialogue: 0,0:03:24.61,0:03:26.50,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:03:26.50,0:03:30.16,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:03:30.16,0:03:32.07,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:03:32.65,0:03:34.45,爱丽丝CN,,0,0,0,karaoke,「声音很小」
-Dialogue: 0,0:03:34.45,0:03:36.15,爱丽丝CN,,0,0,0,karaoke,真的很小
-Dialogue: 0,0:03:36.15,0:03:38.43,爱丽丝CN,,0,0,0,karaoke,挺小的 这样差不多
-Dialogue: 0,0:03:38.43,0:03:39.89,爱丽丝CN,,0,0,0,karaoke,这样怎么样
-Dialogue: 0,0:03:39.89,0:03:41.60,爱丽丝CN,,0,0,0,karaoke,这样感觉好吧
-Dialogue: 0,0:03:42.10,0:03:45.84,爱丽丝CN,,0,0,0,karaoke,声音很小呢
-Dialogue: 0,0:03:45.84,0:03:48.97,爱丽丝CN,,0,0,0,karaoke,这样就能听到了吧
-Dialogue: 0,0:03:49.63,0:03:51.69,爱丽丝CN,,0,0,0,karaoke,声音大不大啊各位
-Dialogue: 0,0:03:52.45,0:03:53.64,爱丽丝CN,,0,0,0,karaoke,OK
-Dialogue: 0,0:03:53.64,0:03:55.81,爱丽丝CN,,0,0,0,karaoke,晚上好
-Dialogue: 0,0:03:56.32,0:03:57.69,爱丽丝CN,,0,0,0,karaoke,OK
-Dialogue: 0,0:03:58.35,0:03:59.83,爱丽丝CN,,0,0,0,karaoke,OKOK
-Dialogue: 0,0:04:02.56,0:04:04.77,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:04:06.69,0:04:08.24,爱丽丝CN,,0,0,0,karaoke,想要玩一下
-Dialogue: 0,0:04:08.73,0:04:10.89,爱丽丝CN,,0,0,0,karaoke,出来了出来了 太好了
-Dialogue: 0,0:04:10.89,0:04:12.81,爱丽丝CN,,0,0,0,karaoke,还以为会出不来
-Dialogue: 0,0:04:14.10,0:04:16.13,爱丽丝CN,,0,0,0,karaoke,OK foo foo
-Dialogue: 0,0:04:16.13,0:04:16.95,爱丽丝CN,,0,0,0,karaoke,然后呢
-Dialogue: 0,0:04:16.95,0:04:18.66,爱丽丝CN,,0,0,0,karaoke,礼物也谢谢
-Dialogue: 0,0:04:18.66,0:04:19.69,爱丽丝CN,,0,0,0,karaoke,那个啊
-Dialogue: 0,0:04:19.69,0:04:21.03,爱丽丝CN,,0,0,0,karaoke,上次在BILIBILI
-Dialogue: 0,0:04:21.03,0:04:24.23,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:04:24.23,0:04:25.59,爱丽丝CN,,0,0,0,karaoke,已经...那个
-Dialogue: 0,0:04:25.59,0:04:27.35,爱丽丝CN,,0,0,0,karaoke,那个差不多已经记住了
-Dialogue: 0,0:04:43.86,0:04:44.85,爱丽丝CN,,0,0,0,karaoke,记住了
-Dialogue: 0,0:04:44.85,0:04:46.16,爱丽丝CN,,0,0,0,karaoke,是不是很厉害
-Dialogue: 0,0:04:48.79,0:04:50.48,爱丽丝CN,,0,0,0,karaoke,已经 记住了
-Dialogue: 0,0:04:50.48,0:04:51.94,爱丽丝CN,,0,0,0,karaoke,已经熟悉了的样子
-Dialogue: 0,0:05:03.48,0:05:06.37,爱丽丝CN,,0,0,0,karaoke,奇怪 爱丽斯没有剪刀来着么
-Dialogue: 0,0:05:06.37,0:05:08.98,爱丽丝CN,,0,0,0,karaoke,这个世界爱丽丝没有剪刀吗
-Dialogue: 0,0:05:14.22,0:05:14.98,爱丽丝CN,,0,0,0,karaoke,奇怪
-Dialogue: 0,0:05:14.98,0:05:17.65,爱丽丝CN,,0,0,0,karaoke,明明记得有剪刀来着
-Dialogue: 0,0:05:19.59,0:05:21.87,爱丽丝CN,,0,0,0,karaoke,没 没有了吗
-Dialogue: 0,0:05:21.87,0:05:23.17,爱丽丝CN,,0,0,0,karaoke,真的假的
-Dialogue: 0,0:05:23.17,0:05:24.64,爱丽丝CN,,0,0,0,karaoke,震惊
-Dialogue: 0,0:05:32.13,0:05:34.72,爱丽丝CN,,0,0,0,karaoke,虽然曲名读不来
-Dialogue: 0,0:05:35.45,0:05:36.37,爱丽丝CN,,0,0,0,karaoke,那个
-Dialogue: 0,0:05:36.37,0:05:38.95,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:05:38.95,0:05:42.08,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:05:43.66,0:05:45.76,爱丽丝CN,,0,0,0,karaoke,谢谢舰长
-Dialogue: 0,0:05:49.44,0:05:51.87,爱丽丝CN,,0,0,0,karaoke,这个也是啊 不是在Bilibili的话
-Dialogue: 0,0:05:51.87,0:05:53.24,爱丽丝CN,,0,0,0,karaoke,没法随意地唱歌
-Dialogue: 0,0:05:53.24,0:05:54.58,爱丽丝CN,,0,0,0,karaoke,「(剪刀)在箱子里面」
-Dialogue: 0,0:05:54.58,0:05:57.63,爱丽丝CN,,0,0,0,karaoke,刚刚看了没有的说 有吗
-Dialogue: 0,0:06:01.39,0:06:02.65,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:06:02.65,0:06:03.99,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:06:03.99,0:06:05.23,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:06:05.23,0:06:07.29,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:06:07.29,0:06:09.38,爱丽丝CN,,0,0,0,karaoke,(小兔子)乖乖的那首对吧
-Dialogue: 0,0:06:10.53,0:06:12.29,爱丽丝CN,,0,0,0,karaoke,那个 那个啊
-Dialogue: 0,0:06:12.29,0:06:14.79,爱丽丝CN,,0,0,0,karaoke,用中文的话 要怎样...
-Dialogue: 0,0:06:14.79,0:06:17.03,爱丽丝CN,,0,0,0,karaoke,怎么记比较好呢
-Dialogue: 0,0:06:17.03,0:06:19.29,爱丽丝CN,,0,0,0,karaoke,啊 有了有了 这个 剪刀
-Dialogue: 0,0:06:19.29,0:06:20.53,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:06:21.52,0:06:23.68,爱丽丝CN,,0,0,0,karaoke,「爱丽丝酱 可爱」
-Dialogue: 0,0:06:24.16,0:06:25.69,爱丽丝CN,,0,0,0,karaoke,「我爱」
-Dialogue: 0,0:06:25.69,0:06:27.05,爱丽丝CN,,0,0,0,karaoke,谢谢
-Dialogue: 0,0:06:28.66,0:06:30.67,爱丽丝CN,,0,0,0,karaoke,「来晚啦」早上好
-Dialogue: 0,0:06:30.67,0:06:31.57,爱丽丝CN,,0,0,0,karaoke,不对
-Dialogue: 0,0:06:31.57,0:06:33.02,爱丽丝CN,,0,0,0,karaoke,晚...出来了
-Dialogue: 0,0:06:33.70,0:06:35.18,爱丽丝CN,,0,0,0,karaoke,爱丽丝没有搞错吧
-Dialogue: 0,0:06:35.18,0:06:36.49,爱丽丝CN,,0,0,0,karaoke,咦不对？ 晚...
-Dialogue: 0,0:06:36.49,0:06:38.28,爱丽丝CN,,0,0,0,karaoke,晚...早...在...
-Dialogue: 0,0:06:38.28,0:06:40.54,爱丽丝CN,,0,0,0,karaoke,等下 爱丽丝搞不懂了
-Dialogue: 0,0:06:41.50,0:06:43.28,爱丽丝CN,,0,0,0,karaoke,晚上好 是
-Dialogue: 0,0:06:43.28,0:06:45.50,爱丽丝CN,,0,0,0,karaoke,{\k0}晚|ばん {\k0}上|うえ {\k0}好|すき {\k0}对吧
-Dialogue: 0,0:06:47.80,0:06:48.94,爱丽丝CN,,0,0,0,karaoke,早上好 是
-Dialogue: 0,0:06:48.94,0:06:52.92,爱丽丝CN,,0,0,0,karaoke,{\k0}早|はやい {\k0}上|うえ {\k0}好|すき {\k0}对吧
-Dialogue: 0,0:06:53.98,0:06:56.50,爱丽丝CN,,0,0,0,karaoke,之前爱丽丝把什么给搞错了来着
-Dialogue: 0,0:06:57.05,0:06:57.97,爱丽丝CN,,0,0,0,karaoke,晚...
-Dialogue: 0,0:06:58.64,0:07:01.29,爱丽丝CN,,0,0,0,karaoke,晚 上 不对 晚...
-Dialogue: 0,0:07:03.72,0:07:05.06,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:07:05.06,0:07:06.37,爱丽丝CN,,0,0,0,karaoke,打 打到了 对不起
-Dialogue: 0,0:07:06.37,0:07:07.69,爱丽丝CN,,0,0,0,karaoke,不对不对不对
-Dialogue: 0,0:07:07.69,0:07:08.88,爱丽丝CN,,0,0,0,karaoke,是想剪羊毛
-Dialogue: 0,0:07:09.91,0:07:11.90,爱丽丝CN,,0,0,0,karaoke,这个声音怎么回事
-Dialogue: 0,0:07:11.90,0:07:14.50,爱丽丝CN,,0,0,0,karaoke,大家能听清游戏的声音吗
-Dialogue: 0,0:07:18.22,0:07:20.50,爱丽丝CN,,0,0,0,karaoke,晚 上 好
-Dialogue: 0,0:07:20.50,0:07:22.42,爱丽丝CN,,0,0,0,karaoke,早 上 好 w
-Dialogue: 0,0:07:23.69,0:07:25.78,爱丽丝CN,,0,0,0,karaoke,早啊 晚是晚
-Dialogue: 0,0:07:25.78,0:07:27.68,爱丽丝CN,,0,0,0,karaoke,{\k0}晚 {\k0}安|やすい
-Dialogue: 0,0:07:28.72,0:07:30.84,爱丽丝CN,,0,0,0,karaoke,晚 安 那就晚安
-Dialogue: 0,0:07:32.96,0:07:34.44,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:07:34.44,0:07:35.78,爱丽丝CN,,0,0,0,karaoke,这是因为啊
-Dialogue: 0,0:07:35.78,0:07:37.40,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:07:37.40,0:07:39.14,爱丽丝CN,,0,0,0,karaoke,杀掉的话
-Dialogue: 0,0:07:39.14,0:07:40.42,爱丽丝CN,,0,0,0,karaoke,会很那个吧
-Dialogue: 0,0:07:41.95,0:07:44.09,爱丽丝CN,,0,0,0,karaoke,用剪子剪
-Dialogue: 0,0:07:44.45,0:07:46.16,爱丽丝CN,,0,0,0,karaoke,而不是杀掉
-Dialogue: 0,0:07:46.16,0:07:48.16,爱丽丝CN,,0,0,0,karaoke,就能获得羊毛块
-Dialogue: 0,0:07:48.16,0:07:49.48,爱丽丝CN,,0,0,0,karaoke,不用杀掉的话
-Dialogue: 0,0:07:49.48,0:07:51.29,爱丽丝CN,,0,0,0,karaoke,对吧 用剪子
-Dialogue: 0,0:07:51.66,0:07:53.96,爱丽丝CN,,0,0,0,karaoke,用剪子剪的方法
-Dialogue: 0,0:07:53.96,0:07:56.06,爱丽丝CN,,0,0,0,karaoke,对羊羊会比较温柔
-Dialogue: 0,0:07:56.59,0:08:00.16,爱丽丝CN,,0,0,0,karaoke,出来了×5
-Dialogue: 0,0:08:01.38,0:08:02.35,爱丽丝CN,,0,0,0,karaoke,不要
-Dialogue: 0,0:08:02.35,0:08:04.45,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:04.45,0:08:05.56,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:05.56,0:08:06.94,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:06.94,0:08:08.85,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:09.20,0:08:10.17,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:11.25,0:08:12.34,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:13.03,0:08:14.39,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:14.39,0:08:15.60,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:15.60,0:08:17.29,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:17.29,0:08:19.22,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:19.22,0:08:20.89,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:20.89,0:08:21.92,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:21.92,0:08:23.83,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:24.61,0:08:25.70,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:25.70,0:08:27.25,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:27.63,0:08:29.33,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:29.68,0:08:31.29,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:31.29,0:08:32.50,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:32.50,0:08:33.57,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:33.57,0:08:34.77,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:34.77,0:08:35.77,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:35.77,0:08:37.52,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:37.52,0:08:40.18,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:40.18,0:08:42.28,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:42.28,0:08:44.11,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:44.11,0:08:46.52,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:47.06,0:08:49.63,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:49.97,0:08:52.10,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:52.10,0:08:53.20,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:54.34,0:08:55.67,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:55.67,0:08:57.06,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:57.54,0:08:58.80,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:08:58.80,0:09:00.58,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:01.27,0:09:02.87,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:02.87,0:09:05.38,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:06.30,0:09:08.29,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:08.76,0:09:11.02,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:11.02,0:09:13.10,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:14.66,0:09:17.13,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:17.53,0:09:18.70,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:18.70,0:09:20.04,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:20.48,0:09:21.49,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:23.21,0:09:24.55,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:25.04,0:09:27.00,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:27.00,0:09:29.13,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:29.13,0:09:31.61,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:33.26,0:09:35.43,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:35.76,0:09:37.13,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:37.13,0:09:37.90,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:37.90,0:09:40.10,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:42.88,0:09:44.76,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:48.27,0:09:49.87,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:49.87,0:09:51.40,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:51.40,0:09:52.97,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:54.05,0:09:55.88,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:56.37,0:09:57.59,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:09:58.74,0:09:59.60,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:00.45,0:10:01.97,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:02.63,0:10:03.89,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:04.58,0:10:05.47,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:05.47,0:10:07.79,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:09.29,0:10:11.35,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:13.11,0:10:14.71,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:15.71,0:10:17.23,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:17.58,0:10:19.44,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:20.22,0:10:20.88,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:20.88,0:10:22.61,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:23.14,0:10:24.12,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:25.50,0:10:27.54,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:28.05,0:10:30.03,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:30.03,0:10:31.67,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:31.67,0:10:34.10,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:34.10,0:10:36.19,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:37.57,0:10:39.38,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:39.38,0:10:41.26,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:43.36,0:10:44.82,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:45.21,0:10:47.11,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:49.19,0:10:51.43,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:51.89,0:10:53.94,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:56.27,0:10:57.25,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:10:57.25,0:10:59.92,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:00.20,0:11:02.42,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:05.44,0:11:06.64,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:06.64,0:11:07.71,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:08.42,0:11:09.65,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:10.09,0:11:11.90,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:11.90,0:11:13.38,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:13.38,0:11:14.55,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:14.55,0:11:16.30,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:16.30,0:11:18.37,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:19.55,0:11:20.35,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:20.35,0:11:21.99,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:21.99,0:11:22.86,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:23.74,0:11:25.20,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:25.20,0:11:26.72,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:27.00,0:11:28.55,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:30.03,0:11:31.53,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:33.42,0:11:34.74,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:35.28,0:11:36.42,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:36.42,0:11:38.11,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:38.77,0:11:41.22,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:41.81,0:11:43.80,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:43.80,0:11:45.57,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:45.57,0:11:47.55,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:11:51.51,0:11:53.44,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:01.37,0:12:03.50,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:05.28,0:12:06.62,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:06.62,0:12:08.73,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:08.73,0:12:09.91,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:10.42,0:12:11.54,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:12.13,0:12:13.58,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:13.58,0:12:14.80,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:14.80,0:12:17.33,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:18.93,0:12:19.97,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:19.97,0:12:20.98,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:20.98,0:12:22.38,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:24.42,0:12:25.72,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:25.72,0:12:26.96,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:26.96,0:12:28.47,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:28.47,0:12:29.61,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:29.61,0:12:30.45,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:30.45,0:12:31.82,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:32.14,0:12:34.02,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:36.48,0:12:37.89,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:37.89,0:12:40.03,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:40.03,0:12:41.90,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:42.48,0:12:43.52,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:43.52,0:12:46.40,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:46.40,0:12:47.94,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:48.54,0:12:50.83,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:50.83,0:12:51.84,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:52.19,0:12:53.63,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:53.63,0:12:55.02,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:55.02,0:12:57.10,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:57.10,0:12:58.01,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:58.36,0:12:59.94,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:12:59.94,0:13:00.93,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:00.93,0:13:02.37,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:02.37,0:13:04.19,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:05.12,0:13:09.87,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:10.44,0:13:11.84,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:11.84,0:13:13.89,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:13.89,0:13:15.56,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:15.80,0:13:17.67,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:21.93,0:13:23.80,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:26.02,0:13:27.30,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:27.30,0:13:29.98,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:30.73,0:13:32.06,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:32.58,0:13:33.48,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:34.33,0:13:35.77,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:37.14,0:13:38.93,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:38.93,0:13:40.06,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:41.69,0:13:43.98,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:43.98,0:13:45.27,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:45.60,0:13:47.67,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:47.67,0:13:49.60,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:49.60,0:13:50.69,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:50.69,0:13:53.30,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:53.30,0:13:54.58,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:54.58,0:13:56.03,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:56.02,0:13:57.09,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:57.09,0:13:57.90,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:13:59.97,0:14:01.32,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:01.32,0:14:02.50,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:02.50,0:14:03.52,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:03.83,0:14:04.93,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:05.97,0:14:07.03,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:07.43,0:14:08.93,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:08.93,0:14:10.77,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:10.77,0:14:13.23,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:14.15,0:14:15.97,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:16.23,0:14:17.79,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:17.79,0:14:20.21,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:21.25,0:14:23.31,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:23.31,0:14:24.85,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:25.76,0:14:27.34,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:28.29,0:14:30.16,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:30.16,0:14:32.14,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:38.17,0:14:39.15,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:41.12,0:14:42.53,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:42.53,0:14:44.37,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:44.37,0:14:46.15,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:46.58,0:14:48.71,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:50.27,0:14:52.30,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:52.30,0:14:54.11,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:54.11,0:14:55.86,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:55.86,0:14:56.85,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:14:58.90,0:15:01.40,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:01.82,0:15:03.24,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:03.24,0:15:04.96,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:09.80,0:15:11.42,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:11.42,0:15:13.35,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:13.35,0:15:14.64,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:16.92,0:15:19.45,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:20.08,0:15:21.96,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:23.06,0:15:24.02,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:24.02,0:15:25.37,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:27.12,0:15:28.27,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:28.96,0:15:30.97,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:31.78,0:15:32.80,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:32.80,0:15:35.68,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:15:41.12,0:15:42.65,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:05.09,0:16:06.82,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:07.73,0:16:09.51,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:10.82,0:16:13.27,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:18.41,0:16:19.46,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:25.70,0:16:28.24,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:28.24,0:16:29.61,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:29.61,0:16:30.80,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:30.80,0:16:32.22,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:32.86,0:16:34.81,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:35.90,0:16:37.49,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:37.49,0:16:39.45,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:39.45,0:16:40.44,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:48.75,0:16:50.48,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:51.89,0:16:54.31,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:54.31,0:16:55.74,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:16:57.08,0:16:58.18,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:03.85,0:17:05.62,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:06.20,0:17:07.41,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:07.41,0:17:08.30,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:08.30,0:17:11.18,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:11.18,0:17:13.50,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:14.02,0:17:17.06,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:17.06,0:17:19.41,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:21.57,0:17:23.00,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:23.00,0:17:24.46,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:24.46,0:17:26.68,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:44.34,0:17:45.38,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:46.20,0:17:47.93,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:47.93,0:17:49.54,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:50.65,0:17:51.59,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:51.59,0:17:53.63,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:56.73,0:17:58.00,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:17:58.40,0:18:00.08,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:18:00.08,0:18:01.54,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:18:03.25,0:18:05.29,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:18:06.61,0:18:08.67,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:18:08.67,0:18:10.04,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:18:25.66,0:18:26.63,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:18:27.72,0:18:29.00,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:18:29.00,0:18:30.73,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:18:39.57,0:18:40.83,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:18:43.16,0:18:44.36,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:18:59.72,0:19:01.26,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:01.26,0:19:02.45,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:02.45,0:19:03.18,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:03.18,0:19:05.30,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:07.46,0:19:09.03,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:09.03,0:19:10.76,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:10.76,0:19:11.60,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:11.60,0:19:13.47,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:13.47,0:19:14.97,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:16.01,0:19:16.77,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:16.77,0:19:18.68,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:18.68,0:19:20.32,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:20.32,0:19:22.84,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:23.43,0:19:24.81,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:24.81,0:19:26.68,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:26.68,0:19:29.26,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:29.52,0:19:31.19,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:31.19,0:19:32.58,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:33.28,0:19:34.45,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:37.86,0:19:38.69,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:39.26,0:19:40.13,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:40.45,0:19:41.43,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:41.43,0:19:42.72,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:43.02,0:19:44.90,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:47.97,0:19:49.58,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:50.11,0:19:52.83,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:52.83,0:19:54.78,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:19:55.55,0:19:57.40,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:00.26,0:20:02.04,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:02.04,0:20:03.78,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:05.28,0:20:07.88,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:07.88,0:20:10.03,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:10.03,0:20:11.32,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:11.32,0:20:13.40,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:13.40,0:20:14.50,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:14.50,0:20:16.18,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:16.43,0:20:17.75,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:18.51,0:20:19.37,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:19.37,0:20:20.48,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:21.18,0:20:22.70,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:22.70,0:20:25.18,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:25.75,0:20:27.24,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:35.98,0:20:37.05,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:37.05,0:20:39.20,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:40.59,0:20:41.71,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:41.71,0:20:43.73,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:43.73,0:20:45.04,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:45.62,0:20:46.96,爱丽丝CN,,0,0,0,karaoke,
-Dialogue: 0,0:20:55.13,0:20:56.94,爱丽丝CN,,0,0,0,karaoke,
+Comment: 0,0:00:00.00,0:00:00.00,爱丽丝CN,kusapeko,0,0,0,template line noblank,
+Comment: 0,0:00:00.00,0:00:00.00,爱丽丝CN,kusapeko,0,0,0,template furi,{\fs32\pos($scenter,$sbottom)\an2}
+Dialogue: 0,0:03:07.76,0:03:10.36,爱丽丝CN,kusapeko,0,0,0,karaoke,Good evening 晚上好
+Dialogue: 0,0:03:12.53,0:03:14.82,爱丽丝CN,kusapeko,0,0,0,karaoke,声音 这样...啊等下
+Dialogue: 0,0:03:14.82,0:03:17.05,爱丽丝CN,kusapeko,0,0,0,karaoke,混响开着啊 混响...
+Dialogue: 0,0:03:17.05,0:03:18.54,爱丽丝CN,kusapeko,0,0,0,karaoke,晚上好~~
+Dialogue: 0,0:03:18.54,0:03:21.87,爱丽丝CN,kusapeko,0,0,0,karaoke,今天 直播内容投票的结果
+Dialogue: 0,0:03:23.01,0:03:24.06,爱丽丝CN,kusapeko,0,0,0,karaoke,那个
+Dialogue: 0,0:03:24.61,0:03:26.50,爱丽丝CN,kusapeko,0,0,0,karaoke,因为选Minecraft的人比较多 Minecra...
+Dialogue: 0,0:03:26.50,0:03:30.16,爱丽丝CN,kusapeko,0,0,0,karaoke,第二个选项的人 也特别多
+Dialogue: 0,0:03:30.16,0:03:32.07,爱丽丝CN,kusapeko,0,0,0,karaoke,等等 混响 混响...
+Dialogue: 0,0:03:32.65,0:03:34.45,爱丽丝CN,kusapeko,0,0,0,karaoke,「声音很小」？
+Dialogue: 0,0:03:34.45,0:03:36.15,爱丽丝CN,kusapeko,0,0,0,karaoke,啊 真的很小
+Dialogue: 0,0:03:36.15,0:03:38.43,爱丽丝CN,kusapeko,0,0,0,karaoke,挺小的x2 这样差不多
+Dialogue: 0,0:03:38.43,0:03:39.89,爱丽丝CN,kusapeko,0,0,0,karaoke,这样怎么样
+Dialogue: 0,0:03:39.89,0:03:41.60,爱丽丝CN,kusapeko,0,0,0,karaoke,这样感觉还可以吧~
+Dialogue: 0,0:03:42.10,0:03:45.84,爱丽丝CN,kusapeko,0,0,0,karaoke,声音很小呢！——
+Dialogue: 0,0:03:45.84,0:03:48.97,爱丽丝CN,kusapeko,0,0,0,karaoke,这样就能听到了吧！——
+Dialogue: 0,0:03:49.63,0:03:51.69,爱丽丝CN,kusapeko,0,0,0,karaoke,声音大不大啊兔子们
+Dialogue: 0,0:03:52.45,0:03:53.64,爱丽丝CN,kusapeko,0,0,0,karaoke,「OK」？
+Dialogue: 0,0:03:53.64,0:03:55.81,爱丽丝CN,kusapeko,0,0,0,karaoke,晚上好↑↑！
+Dialogue: 0,0:03:56.32,0:03:57.69,爱丽丝CN,kusapeko,0,0,0,karaoke,OK~ ww
+Dialogue: 0,0:03:58.35,0:03:59.83,爱丽丝CN,kusapeko,0,0,0,karaoke,OKOK~
+Dialogue: 0,0:04:02.56,0:04:04.77,爱丽丝CN,kusapeko,0,0,0,karaoke,把MC放到这里呢
+Dialogue: 0,0:04:06.69,0:04:08.24,爱丽丝CN,kusapeko,0,0,0,karaoke,想要玩一下...
+Dialogue: 0,0:04:08.73,0:04:10.89,爱丽丝CN,kusapeko,0,0,0,karaoke,出来了出来了 太好了
+Dialogue: 0,0:04:10.89,0:04:12.81,爱丽丝CN,kusapeko,0,0,0,karaoke,还以为会出不来
+Dialogue: 0,0:04:14.10,0:04:16.13,爱丽丝CN,kusapeko,0,0,0,karaoke,OK foo↑ foo↑
+Dialogue: 0,0:04:16.13,0:04:16.95,爱丽丝CN,kusapeko,0,0,0,karaoke,然后呢
+Dialogue: 0,0:04:16.95,0:04:18.66,爱丽丝CN,kusapeko,0,0,0,karaoke,礼物也谢谢
+Dialogue: 0,0:04:18.66,0:04:19.69,爱丽丝CN,kusapeko,0,0,0,karaoke,那个啊
+Dialogue: 0,0:04:19.69,0:04:21.03,爱丽丝CN,kusapeko,0,0,0,karaoke,上次在BILIBILI
+Dialogue: 0,0:04:21.03,0:04:24.23,爱丽丝CN,kusapeko,0,0,0,karaoke,有明佬教了我很多的中文歌
+Dialogue: 0,0:04:24.23,0:04:25.59,爱丽丝CN,kusapeko,0,0,0,karaoke,已经...那个
+Dialogue: 0,0:04:25.59,0:04:27.35,爱丽丝CN,kusapeko,0,0,0,karaoke,那个差不多已经记住了
+Dialogue: 0,0:04:27.35,0:04:43.66,爱丽丝CN,kusapeko,0,0,0,karaoke,♪♪♪
+Dialogue: 0,0:04:43.86,0:04:44.85,爱丽丝CN,kusapeko,0,0,0,karaoke,记住了哦
+Dialogue: 0,0:04:44.85,0:04:46.16,爱丽丝CN,kusapeko,0,0,0,karaoke,是不是很厉害
+Dialogue: 0,0:04:48.79,0:04:50.48,爱丽丝CN,kusapeko,0,0,0,karaoke,已经 记住了
+Dialogue: 0,0:04:50.48,0:04:51.94,爱丽丝CN,kusapeko,0,0,0,karaoke,已经熟悉了的样子
+Dialogue: 0,0:04:53.36,0:05:03.24,爱丽丝CN,kusapeko,0,0,0,karaoke,♪♪♪
+Dialogue: 0,0:05:03.48,0:05:06.37,爱丽丝CN,kusapeko,0,0,0,karaoke,啊咧 爱丽丝好像没有剪刀欸
+Dialogue: 0,0:05:06.37,0:05:08.98,爱丽丝CN,kusapeko,0,0,0,karaoke,这个世界爱丽丝没有剪刀嘛
+Dialogue: 0,0:05:14.22,0:05:14.98,爱丽丝CN,kusapeko,0,0,0,karaoke,啊咧？
+Dialogue: 0,0:05:14.98,0:05:17.65,爱丽丝CN,kusapeko,0,0,0,karaoke,明明记得有剪刀来着
+Dialogue: 0,0:05:19.59,0:05:21.87,爱丽丝CN,kusapeko,0,0,0,karaoke,没 没有了吗
+Dialogue: 0,0:05:21.87,0:05:23.17,爱丽丝CN,kusapeko,0,0,0,karaoke,真的假的？
+Dialogue: 0,0:05:23.17,0:05:24.64,爱丽丝CN,kusapeko,0,0,0,karaoke,震撼爱丽丝
+Dialogue: 0,0:05:32.13,0:05:34.72,爱丽丝CN,kusapeko,0,0,0,karaoke,虽然曲名读不来 w
+Dialogue: 0,0:05:35.45,0:05:36.37,爱丽丝CN,kusapeko,0,0,0,karaoke,那个
+Dialogue: 0,0:05:36.37,0:05:38.95,爱丽丝CN,kusapeko,0,0,0,karaoke,就算记住中文歌怎么唱
+Dialogue: 0,0:05:38.95,0:05:42.08,爱丽丝CN,kusapeko,0,0,0,karaoke,曲名总是忘记叫什么
+Dialogue: 0,0:05:43.66,0:05:45.76,爱丽丝CN,kusapeko,0,0,0,karaoke,舰长 谢谢~
+Dialogue: 0,0:05:49.44,0:05:51.87,爱丽丝CN,kusapeko,0,0,0,karaoke,这个也是啊 不是在Bilibili的话
+Dialogue: 0,0:05:51.87,0:05:53.24,爱丽丝CN,kusapeko,0,0,0,karaoke,没法随意地唱歌
+Dialogue: 0,0:05:53.24,0:05:54.58,爱丽丝CN,kusapeko,0,0,0,karaoke,「(剪刀)在箱子里面」欸？
+Dialogue: 0,0:05:54.58,0:05:57.63,爱丽丝CN,kusapeko,0,0,0,karaoke,刚刚看了没有的说 有嘛？
+Dialogue: 0,0:06:01.39,0:06:02.65,爱丽丝CN,kusapeko,0,0,0,karaoke,「童...谣」？
+Dialogue: 0,0:06:02.65,0:06:03.99,爱丽丝CN,kusapeko,0,0,0,karaoke,童谣？
+Dialogue: 0,0:06:03.99,0:06:05.23,爱丽丝CN,kusapeko,0,0,0,karaoke,是那个吧？
+Dialogue: 0,0:06:05.23,0:06:07.29,爱丽丝CN,kusapeko,0,0,0,karaoke,好像是兔子  小兔子
+Dialogue: 0,0:06:07.29,0:06:09.38,爱丽丝CN,kusapeko,0,0,0,karaoke,(小兔子)乖乖的那首对吧
+Dialogue: 0,0:06:10.53,0:06:12.29,爱丽丝CN,kusapeko,0,0,0,karaoke,那个 那个啊
+Dialogue: 0,0:06:12.29,0:06:14.79,爱丽丝CN,kusapeko,0,0,0,karaoke,用中文的话 要怎样...
+Dialogue: 0,0:06:14.79,0:06:17.03,爱丽丝CN,kusapeko,0,0,0,karaoke,怎么记比较好呢
+Dialogue: 0,0:06:17.03,0:06:19.29,爱丽丝CN,kusapeko,0,0,0,karaoke,啊 有了有了 这个 剪刀
+Dialogue: 0,0:06:19.29,0:06:20.53,爱丽丝CN,kusapeko,0,0,0,karaoke,物品GET√
+Dialogue: 0,0:06:21.52,0:06:23.68,爱丽丝CN,kusapeko,0,0,0,karaoke,「爱丽丝酱 可爱」
+Dialogue: 0,0:06:24.16,0:06:25.69,爱丽丝CN,kusapeko,0,0,0,karaoke,「我爱」
+Dialogue: 0,0:06:25.69,0:06:27.05,爱丽丝CN,kusapeko,0,0,0,karaoke,谢谢~ ww
+Dialogue: 0,0:06:28.66,0:06:30.67,爱丽丝CN,kusapeko,0,0,0,karaoke,「来晚啦」早上好
+Dialogue: 0,0:06:30.67,0:06:31.57,爱丽丝CN,kusapeko,0,0,0,karaoke,不对
+Dialogue: 0,0:06:31.57,0:06:33.02,爱丽丝CN,kusapeko,0,0,0,karaoke,晚...出来了
+Dialogue: 0,0:06:33.70,0:06:35.18,爱丽丝CN,kusapeko,0,0,0,karaoke,爱丽丝没有搞错吧
+Dialogue: 0,0:06:35.18,0:06:36.49,爱丽丝CN,kusapeko,0,0,0,karaoke,咦不对？ 晚...
+Dialogue: 0,0:06:36.49,0:06:38.28,爱丽丝CN,kusapeko,0,0,0,karaoke,晚...早...在...
+Dialogue: 0,0:06:38.28,0:06:40.54,爱丽丝CN,kusapeko,0,0,0,karaoke,等下 爱丽丝搞不懂了
+Dialogue: 0,0:06:41.50,0:06:43.28,爱丽丝CN,kusapeko,0,0,0,karaoke,晚上好 是
+Dialogue: 0,0:06:43.28,0:06:45.50,爱丽丝CN,kusapeko,0,0,0,karaoke,晚 上 好    对吧
+Dialogue: 0,0:06:43.28,0:06:45.50,爱丽丝CN,kusapeko,0,0,0,karaoke,{\fscx50\fscy50\pos(570.182,633.09)}ばん  うえ  すき
+Dialogue: 0,0:06:47.80,0:06:48.94,爱丽丝CN,kusapeko,0,0,0,karaoke,早上好 是
+Dialogue: 0,0:06:48.94,0:06:52.92,爱丽丝CN,kusapeko,0,0,0,karaoke,早  上 好   对吧
+Dialogue: 0,0:06:48.94,0:06:52.92,爱丽丝CN,kusapeko,0,0,0,karaoke,{\fscx50\fscy50\pos(573.818,635.273)}はやい  うえ  すき
+Dialogue: 0,0:06:53.98,0:06:56.50,爱丽丝CN,kusapeko,0,0,0,karaoke,之前爱丽丝把什么给搞错了来着
+Dialogue: 0,0:06:57.05,0:06:57.97,爱丽丝CN,kusapeko,0,0,0,karaoke,晚...
+Dialogue: 0,0:06:58.64,0:07:01.29,爱丽丝CN,kusapeko,0,0,0,karaoke,晚 上 不对 晚...
+Dialogue: 0,0:07:03.72,0:07:05.06,爱丽丝CN,kusapeko,0,0,0,karaoke,不知道...好难...啊
+Dialogue: 0,0:07:05.06,0:07:06.37,爱丽丝CN,kusapeko,0,0,0,karaoke,打 打到了 对不起
+Dialogue: 0,0:07:06.37,0:07:07.69,爱丽丝CN,kusapeko,0,0,0,karaoke,不对不对不对
+Dialogue: 0,0:07:07.69,0:07:08.88,爱丽丝CN,kusapeko,0,0,0,karaoke,是想剪羊毛
+Dialogue: 0,0:07:09.91,0:07:11.90,爱丽丝CN,kusapeko,0,0,0,karaoke,这个声音怎么回事
+Dialogue: 0,0:07:11.90,0:07:14.50,爱丽丝CN,kusapeko,0,0,0,karaoke,大家能听清游戏的声音吗
+Dialogue: 0,0:07:18.22,0:07:20.50,爱丽丝CN,kusapeko,0,0,0,karaoke,晚 上 好
+Dialogue: 0,0:07:20.50,0:07:22.42,爱丽丝CN,kusapeko,0,0,0,karaoke,早 上 好 w
+Dialogue: 0,0:07:23.69,0:07:25.78,爱丽丝CN,kusapeko,0,0,0,karaoke,早啊 晚是晚
+Dialogue: 0,0:07:25.78,0:07:27.68,爱丽丝CN,kusapeko,0,0,0,karaoke,晚   安
+Dialogue: 0,0:07:25.78,0:07:27.68,爱丽丝CN,kusapeko,0,0,0,karaoke,{\fscx50\fscy50\pos(645.818,636.001)}わん 　やすい
+Dialogue: 0,0:07:28.72,0:07:30.84,爱丽丝CN,kusapeko,0,0,0,karaoke,晚 安 那就晚安
+Dialogue: 0,0:07:32.96,0:07:34.44,爱丽丝CN,kusapeko,0,0,0,karaoke,「为什么要剪羊毛呢」
+Dialogue: 0,0:07:34.44,0:07:35.78,爱丽丝CN,kusapeko,0,0,0,karaoke,这是因为啊
+Dialogue: 0,0:07:35.78,0:07:37.40,爱丽丝CN,kusapeko,0,0,0,karaoke,羊羊啊 怎么说呢
+Dialogue: 0,0:07:37.40,0:07:39.14,爱丽丝CN,kusapeko,0,0,0,karaoke,杀掉的话
+Dialogue: 0,0:07:39.14,0:07:40.42,爱丽丝CN,kusapeko,0,0,0,karaoke,会很那个吧
+Dialogue: 0,0:07:41.95,0:07:44.09,爱丽丝CN,kusapeko,0,0,0,karaoke,用剪子剪
+Dialogue: 0,0:07:44.45,0:07:46.16,爱丽丝CN,kusapeko,0,0,0,karaoke,而不是杀掉
+Dialogue: 0,0:07:46.16,0:07:48.16,爱丽丝CN,kusapeko,0,0,0,karaoke,就能获得羊毛块
+Dialogue: 0,0:07:48.16,0:07:49.48,爱丽丝CN,kusapeko,0,0,0,karaoke,不用杀掉的话
+Dialogue: 0,0:07:49.48,0:07:51.29,爱丽丝CN,kusapeko,0,0,0,karaoke,对吧 用剪子
+Dialogue: 0,0:07:51.66,0:07:53.96,爱丽丝CN,kusapeko,0,0,0,karaoke,用剪子剪的方法
+Dialogue: 0,0:07:53.96,0:07:56.06,爱丽丝CN,kusapeko,0,0,0,karaoke,对羊羊会比较温柔
+Dialogue: 0,0:07:56.59,0:08:00.16,爱丽丝CN,kusapeko,0,0,0,karaoke,出来了×5 www
+Dialogue: 0,0:08:01.38,0:08:02.35,爱丽丝CN,kusapeko,0,0,0,karaoke,不要
+Dialogue: 0,0:08:02.35,0:08:04.45,爱丽丝CN,kusapeko,0,0,0,karaoke,不要呀 爱丽丝的羊羊
+Dialogue: 0,0:08:04.45,0:08:05.56,爱丽丝CN,kusapeko,0,0,0,karaoke,快回来
+Dialogue: 0,0:08:05.56,0:08:06.94,爱丽丝CN,kusapeko,0,0,0,karaoke,来来来~
+Dialogue: 0,0:08:06.94,0:08:08.85,爱丽丝CN,kusapeko,0,0,0,karaoke,来来来~ 啊「睡吧」
+Dialogue: 0,0:08:09.20,0:08:10.17,爱丽丝CN,kusapeko,0,0,0,karaoke,睡吧
+Dialogue: 0,0:08:11.25,0:08:12.34,爱丽丝CN,kusapeko,0,0,0,karaoke,等等
+Dialogue: 0,0:08:13.03,0:08:14.39,爱丽丝CN,kusapeko,0,0,0,karaoke,喂 这边呀
+Dialogue: 0,0:08:14.39,0:08:15.60,爱丽丝CN,kusapeko,0,0,0,karaoke,等等！
+Dialogue: 0,0:08:15.60,0:08:17.29,爱丽丝CN,kusapeko,0,0,0,karaoke,鸡鸡也不要出去
+Dialogue: 0,0:08:17.29,0:08:19.22,爱丽丝CN,kusapeko,0,0,0,karaoke,快进来 快快...
+Dialogue: 0,0:08:19.22,0:08:20.89,爱丽丝CN,kusapeko,0,0,0,karaoke,鸡鸡！！！！
+Dialogue: 0,0:08:20.89,0:08:21.92,爱丽丝CN,kusapeko,0,0,0,karaoke,不会吧...啊啊...
+Dialogue: 0,0:08:21.92,0:08:23.83,爱丽丝CN,kusapeko,0,0,0,karaoke,(食物)给掉了x3
+Dialogue: 0,0:08:24.61,0:08:25.70,爱丽丝CN,kusapeko,0,0,0,karaoke,鸡鸡...
+Dialogue: 0,0:08:25.70,0:08:27.25,爱丽丝CN,kusapeko,0,0,0,karaoke,站立在那里...
+Dialogue: 0,0:08:27.63,0:08:29.33,爱丽丝CN,kusapeko,0,0,0,karaoke,生出小羊了！！
+Dialogue: 0,0:08:29.68,0:08:31.29,爱丽丝CN,kusapeko,0,0,0,karaoke,恭喜！！
+Dialogue: 0,0:08:31.29,0:08:32.50,爱丽丝CN,kusapeko,0,0,0,karaoke,鸡鸡等等
+Dialogue: 0,0:08:32.50,0:08:33.57,爱丽丝CN,kusapeko,0,0,0,karaoke,等等x4
+Dialogue: 0,0:08:33.57,0:08:34.77,爱丽丝CN,kusapeko,0,0,0,karaoke,这边这边这边...啊啊
+Dialogue: 0,0:08:34.77,0:08:35.77,爱丽丝CN,kusapeko,0,0,0,karaoke,要溺水了要溺水了
+Dialogue: 0,0:08:35.77,0:08:37.52,爱丽丝CN,kusapeko,0,0,0,karaoke,快来x3 等等...
+Dialogue: 0,0:08:37.52,0:08:40.18,爱丽丝CN,kusapeko,0,0,0,karaoke,等等 等等 要去哪呢 快回来
+Dialogue: 0,0:08:40.18,0:08:42.28,爱丽丝CN,kusapeko,0,0,0,karaoke,要流走了...等等！
+Dialogue: 0,0:08:42.28,0:08:44.11,爱丽丝CN,kusapeko,0,0,0,karaoke,等等 爱丽丝...可能会摔死
+Dialogue: 0,0:08:44.11,0:08:46.52,爱丽丝CN,kusapeko,0,0,0,karaoke,等等 快回来 这边 等等ww
+Dialogue: 0,0:08:47.06,0:08:49.63,爱丽丝CN,kusapeko,0,0,0,karaoke,一起往下走了 xxxx ww
+Dialogue: 0,0:08:49.97,0:08:52.10,爱丽丝CN,kusapeko,0,0,0,karaoke,什么x3 怎么了呀
+Dialogue: 0,0:08:52.10,0:08:53.20,爱丽丝CN,kusapeko,0,0,0,karaoke,过来
+Dialogue: 0,0:08:54.34,0:08:55.67,爱丽丝CN,kusapeko,0,0,0,karaoke,快过来这边呀
+Dialogue: 0,0:08:55.67,0:08:57.06,爱丽丝CN,kusapeko,0,0,0,karaoke,稍微有点暗呢
+Dialogue: 0,0:08:57.54,0:08:58.80,爱丽丝CN,kusapeko,0,0,0,karaoke,很暗呢
+Dialogue: 0,0:08:58.80,0:09:00.58,爱丽丝CN,kusapeko,0,0,0,karaoke,把这里弄亮一点吧
+Dialogue: 0,0:09:01.27,0:09:02.87,爱丽丝CN,kusapeko,0,0,0,karaoke,好像没法弄亮呢
+Dialogue: 0,0:09:02.87,0:09:05.38,爱丽丝CN,kusapeko,0,0,0,karaoke,亮度应该能调的吧 设定里
+Dialogue: 0,0:09:06.30,0:09:08.29,爱丽丝CN,kusapeko,0,0,0,karaoke,那个...画面的设定
+Dialogue: 0,0:09:08.76,0:09:11.02,爱丽丝CN,kusapeko,0,0,0,karaoke,画面的设定 亮度
+Dialogue: 0,0:09:11.02,0:09:13.10,爱丽丝CN,kusapeko,0,0,0,karaoke,这已经 感觉很亮了？
+Dialogue: 0,0:09:14.66,0:09:17.13,爱丽丝CN,kusapeko,0,0,0,karaoke,明明调最亮了还是很暗
+Dialogue: 0,0:09:17.53,0:09:18.70,爱丽丝CN,kusapeko,0,0,0,karaoke,亮度就是这样啊...
+Dialogue: 0,0:09:18.70,0:09:20.04,爱丽丝CN,kusapeko,0,0,0,karaoke,这个程度啊...
+Dialogue: 0,0:09:20.48,0:09:21.49,爱丽丝CN,kusapeko,0,0,0,karaoke,好的
+Dialogue: 0,0:09:23.21,0:09:24.55,爱丽丝CN,kusapeko,0,0,0,karaoke,原来如此呢
+Dialogue: 0,0:09:25.04,0:09:27.00,爱丽丝CN,kusapeko,0,0,0,karaoke,快来~快来~快来~快来~
+Dialogue: 0,0:09:27.00,0:09:29.13,爱丽丝CN,kusapeko,0,0,0,karaoke,鸡鸡...鸡鸡...
+Dialogue: 0,0:09:29.13,0:09:31.61,爱丽丝CN,kusapeko,0,0,0,karaoke,快来~快来~快来~快来~
+Dialogue: 0,0:09:33.26,0:09:35.43,爱丽丝CN,kusapeko,0,0,0,karaoke,aho aho~
+Dialogue: 0,0:09:33.26,0:09:35.43,爱丽丝CN - 顶端,kusapeko,0,0,0,karaoke,*《蜗牛与黄鹂鸟》日语版
+Dialogue: 0,0:09:35.76,0:09:37.13,爱丽丝CN,kusapeko,0,0,0,karaoke,是aho aho吧？
+Dialogue: 0,0:09:37.13,0:09:37.90,爱丽丝CN,kusapeko,0,0,0,karaoke,aho aho吧
+Dialogue: 0,0:09:37.90,0:09:40.10,爱丽丝CN,kusapeko,0,0,0,karaoke,ago ago 不是黄色的嘛(?)
+Dialogue: 0,0:09:42.88,0:09:44.76,爱丽丝CN,kusapeko,0,0,0,karaoke,ago~ago~
+Dialogue: 0,0:09:48.27,0:09:49.87,爱丽丝CN,kusapeko,0,0,0,karaoke,「因为加了光影MOD才会这么暗」
+Dialogue: 0,0:09:49.87,0:09:51.40,爱丽丝CN,kusapeko,0,0,0,karaoke,啊 原来是这样？！
+Dialogue: 0,0:09:51.40,0:09:52.97,爱丽丝CN,kusapeko,0,0,0,karaoke,原来是这样啊...
+Dialogue: 0,0:09:54.05,0:09:55.88,爱丽丝CN,kusapeko,0,0,0,karaoke,光影MOD的原因啊...
+Dialogue: 0,0:09:56.37,0:09:57.59,爱丽丝CN,kusapeko,0,0,0,karaoke,原来如此呢
+Dialogue: 0,0:09:58.74,0:09:59.60,爱丽丝CN,kusapeko,0,0,0,karaoke,快过来！
+Dialogue: 0,0:10:00.45,0:10:01.97,爱丽丝CN,kusapeko,0,0,0,karaoke,哞↘↗~
+Dialogue: 0,0:10:02.63,0:10:03.89,爱丽丝CN,kusapeko,0,0,0,karaoke,哞↘↗~
+Dialogue: 0,0:10:04.58,0:10:05.47,爱丽丝CN,kusapeko,0,0,0,karaoke,快过来
+Dialogue: 0,0:10:05.47,0:10:07.79,爱丽丝CN,kusapeko,0,0,0,karaoke,果然鸡鸡还是要关在这边呢
+Dialogue: 0,0:10:09.29,0:10:11.35,爱丽丝CN,kusapeko,0,0,0,karaoke,啊 有火把啊
+Dialogue: 0,0:10:13.11,0:10:14.71,爱丽丝CN,kusapeko,0,0,0,karaoke,快过来！快过来！
+Dialogue: 0,0:10:15.71,0:10:17.23,爱丽丝CN,kusapeko,0,0,0,karaoke,come on~ come on~
+Dialogue: 0,0:10:17.58,0:10:19.44,爱丽丝CN,kusapeko,0,0,0,karaoke,给了个鸡蛋...
+Dialogue: 0,0:10:20.22,0:10:20.88,爱丽丝CN,kusapeko,0,0,0,karaoke,好
+Dialogue: 0,0:10:20.88,0:10:22.61,爱丽丝CN,kusapeko,0,0,0,karaoke,那 把这个喂给你们
+Dialogue: 0,0:10:23.14,0:10:24.12,爱丽丝CN,kusapeko,0,0,0,karaoke,什么？！
+Dialogue: 0,0:10:25.50,0:10:27.54,爱丽丝CN,kusapeko,0,0,0,karaoke,等等...欸好厉害！
+Dialogue: 0,0:10:28.05,0:10:30.03,爱丽丝CN,kusapeko,0,0,0,karaoke,小鸡鸡好可爱~
+Dialogue: 0,0:10:30.03,0:10:31.67,爱丽丝CN,kusapeko,0,0,0,karaoke,鸡宝宝~
+Dialogue: 0,0:10:31.67,0:10:34.10,爱丽丝CN,kusapeko,0,0,0,karaoke,一生下来就是鸡宝宝呢~
+Dialogue: 0,0:10:34.10,0:10:36.19,爱丽丝CN,kusapeko,0,0,0,karaoke,不是生鸡蛋呢
+Dialogue: 0,0:10:37.57,0:10:39.38,爱丽丝CN,kusapeko,0,0,0,karaoke,原来是这样啊
+Dialogue: 0,0:10:39.38,0:10:41.26,爱丽丝CN,kusapeko,0,0,0,karaoke,不会生鸡蛋啊...
+Dialogue: 0,0:10:43.36,0:10:44.82,爱丽丝CN,kusapeko,0,0,0,karaoke,生是生出来了
+Dialogue: 0,0:10:45.21,0:10:47.11,爱丽丝CN,kusapeko,0,0,0,karaoke,不是鸡蛋...
+Dialogue: 0,0:10:49.19,0:10:51.43,爱丽丝CN,kusapeko,0,0,0,karaoke,直接就生了个鸡宝宝出来
+Dialogue: 0,0:10:51.89,0:10:53.94,爱丽丝CN,kusapeko,0,0,0,karaoke,好可爱！这个绿色的是什么
+Dialogue: 0,0:10:56.27,0:10:57.25,爱丽丝CN,kusapeko,0,0,0,karaoke,(生得)好快
+Dialogue: 0,0:10:57.25,0:10:59.92,爱丽丝CN,kusapeko,0,0,0,karaoke,「喜欢爱丽丝酱 亲亲」谢谢~
+Dialogue: 0,0:10:57.25,0:10:59.92,爱丽丝CN - 顶端,kusapeko,0,0,0,karaoke,*SC将「好き」(喜欢)和「キッス」(亲亲)的「き」连在一起了
+Dialogue: 0,0:11:00.20,0:11:02.42,爱丽丝CN,kusapeko,0,0,0,karaoke,我爱你~mmua~ ww
+Dialogue: 0,0:11:05.44,0:11:06.64,爱丽丝CN,kusapeko,0,0,0,karaoke,是啊 晚上有点可怕
+Dialogue: 0,0:11:06.64,0:11:07.71,爱丽丝CN,kusapeko,0,0,0,karaoke,总之还是先睡吧
+Dialogue: 0,0:11:08.42,0:11:09.65,爱丽丝CN,kusapeko,0,0,0,karaoke,再见了呢
+Dialogue: 0,0:11:10.09,0:11:11.90,爱丽丝CN,kusapeko,0,0,0,karaoke,刚刚 把很多很多的
+Dialogue: 0,0:11:11.90,0:11:13.38,爱丽丝CN,kusapeko,0,0,0,karaoke,材料啊什么的
+Dialogue: 0,0:11:13.38,0:11:14.55,爱丽丝CN,kusapeko,0,0,0,karaoke,收集起来...啊
+Dialogue: 0,0:11:14.55,0:11:16.30,爱丽丝CN,kusapeko,0,0,0,karaoke,「绿色粒子说明正在长大」
+Dialogue: 0,0:11:16.30,0:11:18.37,爱丽丝CN,kusapeko,0,0,0,karaoke,啊 那就是很快就能长大的意思？
+Dialogue: 0,0:11:19.55,0:11:20.35,爱丽丝CN,kusapeko,0,0,0,karaoke,吃吧吃吧~
+Dialogue: 0,0:11:20.35,0:11:21.99,爱丽丝CN,kusapeko,0,0,0,karaoke,啊 好像不要吃了...
+Dialogue: 0,0:11:21.99,0:11:22.86,爱丽丝CN,kusapeko,0,0,0,karaoke,好
+Dialogue: 0,0:11:23.74,0:11:25.20,爱丽丝CN,kusapeko,0,0,0,karaoke,那外面的羊羊↑也...
+Dialogue: 0,0:11:25.20,0:11:26.72,爱丽丝CN,kusapeko,0,0,0,karaoke,啊 吓死人了啦...
+Dialogue: 0,0:11:27.00,0:11:28.55,爱丽丝CN,kusapeko,0,0,0,karaoke,羊羊们也
+Dialogue: 0,0:11:30.03,0:11:31.53,爱丽丝CN,kusapeko,0,0,0,karaoke,给他们饭吃
+Dialogue: 0,0:11:33.42,0:11:34.74,爱丽丝CN,kusapeko,0,0,0,karaoke,给他们饭饭
+Dialogue: 0,0:11:35.28,0:11:36.42,爱丽丝CN,kusapeko,0,0,0,karaoke,用剪刀
+Dialogue: 0,0:11:36.42,0:11:38.11,爱丽丝CN,kusapeko,0,0,0,karaoke,剪羊毛
+Dialogue: 0,0:11:38.77,0:11:41.22,爱丽丝CN,kusapeko,0,0,0,karaoke,这个服务器 粉色的
+Dialogue: 0,0:11:41.81,0:11:43.80,爱丽丝CN,kusapeko,0,0,0,karaoke,想造个粉色的家
+Dialogue: 0,0:11:43.80,0:11:45.57,爱丽丝CN,kusapeko,0,0,0,karaoke,兔兔的家
+Dialogue: 0,0:11:45.57,0:11:47.55,爱丽丝CN,kusapeko,0,0,0,karaoke,造个粉色的多好呀
+Dialogue: 0,0:11:51.51,0:11:53.44,爱丽丝CN,kusapeko,0,0,0,karaoke,「爱丽丝可爱」太好了~
+Dialogue: 0,0:11:55.20,0:12:01.18,爱丽丝CN,kusapeko,0,0,0,karaoke,♪♪♪
+Dialogue: 0,0:12:01.37,0:12:03.50,爱丽丝CN,kusapeko,0,0,0,karaoke,需要多少羊毛呢
+Dialogue: 0,0:12:05.28,0:12:06.62,爱丽丝CN,kusapeko,0,0,0,karaoke,「先想日语单词的音读」
+Dialogue: 0,0:12:06.62,0:12:08.73,爱丽丝CN,kusapeko,0,0,0,karaoke,「就可以记住中文的单词」
+Dialogue: 0,0:12:08.73,0:12:09.91,爱丽丝CN,kusapeko,0,0,0,karaoke,音读
+Dialogue: 0,0:12:10.42,0:12:11.54,爱丽丝CN,kusapeko,0,0,0,karaoke,原来如此
+Dialogue: 0,0:12:12.13,0:12:13.58,爱丽丝CN,kusapeko,0,0,0,karaoke,怎么说呢 容易记住
+Dialogue: 0,0:12:13.58,0:12:14.80,爱丽丝CN,kusapeko,0,0,0,karaoke,怎么说呢 这个
+Dialogue: 0,0:12:14.80,0:12:17.33,爱丽丝CN,kusapeko,0,0,0,karaoke,肯定是记住可能比较好
+Dialogue: 0,0:12:18.93,0:12:19.97,爱丽丝CN,kusapeko,0,0,0,karaoke,「这个前奏」
+Dialogue: 0,0:12:19.97,0:12:20.98,爱丽丝CN,kusapeko,0,0,0,karaoke,「听着感觉像kurenai」？
+Dialogue: 0,0:12:19.97,0:12:20.98,爱丽丝CN - 顶端,kusapeko,0,0,0,karaoke,*《紅》(kurenai):一首歌
+Dialogue: 0,0:12:20.98,0:12:22.38,爱丽丝CN,kusapeko,0,0,0,karaoke,什么x3？
+Dialogue: 0,0:12:24.42,0:12:25.72,爱丽丝CN,kusapeko,0,0,0,karaoke,欸 好像有什么东西在那
+Dialogue: 0,0:12:25.72,0:12:26.96,爱丽丝CN,kusapeko,0,0,0,karaoke,啊啊 不会吧x5
+Dialogue: 0,0:12:26.96,0:12:28.47,爱丽丝CN,kusapeko,0,0,0,karaoke,假的吧
+Dialogue: 0,0:12:28.47,0:12:29.61,爱丽丝CN,kusapeko,0,0,0,karaoke,不会吧...啊
+Dialogue: 0,0:12:29.61,0:12:30.45,爱丽丝CN,kusapeko,0,0,0,karaoke,啊等等等等
+Dialogue: 0,0:12:30.45,0:12:31.82,爱丽丝CN,kusapeko,0,0,0,karaoke,为什么x3(指大早上还有怪物)
+Dialogue: 0,0:12:32.14,0:12:34.02,爱丽丝CN,kusapeko,0,0,0,karaoke,不要x4
+Dialogue: 0,0:12:34.56,0:12:35.96,爱丽丝CN,kusapeko,0,0,0,karaoke,♪♪♪(颤声)
+Dialogue: 0,0:12:36.48,0:12:37.89,爱丽丝CN,kusapeko,0,0,0,karaoke,「工作结束超级累的时候」
+Dialogue: 0,0:12:37.89,0:12:40.03,爱丽丝CN,kusapeko,0,0,0,karaoke,「听着爱丽丝的声音 被治愈了」
+Dialogue: 0,0:12:40.03,0:12:41.90,爱丽丝CN,kusapeko,0,0,0,karaoke,工作辛苦了！！
+Dialogue: 0,0:12:42.48,0:12:43.52,爱丽丝CN,kusapeko,0,0,0,karaoke,辛苦了！
+Dialogue: 0,0:12:43.52,0:12:46.40,爱丽丝CN,kusapeko,0,0,0,karaoke,「辛苦了」用中文怎么说？
+Dialogue: 0,0:12:46.40,0:12:47.94,爱丽丝CN,kusapeko,0,0,0,karaoke,是那个吧 怎么说来着
+Dialogue: 0,0:12:48.54,0:12:50.83,爱丽丝CN,kusapeko,0,0,0,karaoke,好像是「苦 辛 了」
+Dialogue: 0,0:12:50.83,0:12:51.84,爱丽丝CN,kusapeko,0,0,0,karaoke,啊咧 好像不对
+Dialogue: 0,0:12:52.19,0:12:53.63,爱丽丝CN,kusapeko,0,0,0,karaoke,苦...欸？
+Dialogue: 0,0:12:53.63,0:12:55.02,爱丽丝CN,kusapeko,0,0,0,karaoke,对 辛
+Dialogue: 0,0:12:53.63,0:12:55.02,爱丽丝CN,kusapeko,0,0,0,karaoke,{\fscx50\fscy50\pos(658.909,633.819)}   　やすい
+Dialogue: 0,0:12:55.02,0:12:57.10,爱丽丝CN,kusapeko,0,0,0,karaoke,苦　 了   是吧
+Dialogue: 0,0:12:55.02,0:12:57.10,爱丽丝CN,kusapeko,0,0,0,karaoke,{\fscx50\fscy50\pos(568,634.546)}  くるしい　りょう
+Dialogue: 0,0:12:57.10,0:12:58.01,爱丽丝CN,kusapeko,0,0,0,karaoke,不对嘛？
+Dialogue: 0,0:12:58.36,0:12:59.94,爱丽丝CN,kusapeko,0,0,0,karaoke,啊「辛 苦 了」对吧~
+Dialogue: 0,0:12:59.94,0:13:00.93,爱丽丝CN,kusapeko,0,0,0,karaoke,是这个吧
+Dialogue: 0,0:13:00.93,0:13:02.37,爱丽丝CN,kusapeko,0,0,0,karaoke,这个 「信哭乐」？
+Dialogue: 0,0:13:02.37,0:13:04.19,爱丽丝CN,kusapeko,0,0,0,karaoke,「新 新酷了」
+Dialogue: 0,0:13:05.12,0:13:09.87,爱丽丝CN,kusapeko,0,0,0,karaoke,这个 「辛苦咧」「辛苦啦？」「辛苦啦↗」「辛苦啦↘」
+Dialogue: 0,0:13:10.44,0:13:11.84,爱丽丝CN,kusapeko,0,0,0,karaoke,辛 辛苦了
+Dialogue: 0,0:13:11.84,0:13:13.89,爱丽丝CN,kusapeko,0,0,0,karaoke,对了 答对了 果然还是...
+Dialogue: 0,0:13:13.89,0:13:15.56,爱丽丝CN,kusapeko,0,0,0,karaoke,慢慢地记住了
+Dialogue: 0,0:13:15.80,0:13:17.67,爱丽丝CN,kusapeko,0,0,0,karaoke,辛苦啦 辛苦了
+Dialogue: 0,0:13:21.93,0:13:23.80,爱丽丝CN,kusapeko,0,0,0,karaoke,「上手」? 辛苦了
+Dialogue: 0,0:13:26.02,0:13:27.30,爱丽丝CN,kusapeko,0,0,0,karaoke,「把毛毯放在栅栏上」啊
+Dialogue: 0,0:13:26.02,0:13:29.80,爱丽丝CN - 顶端,kusapeko,0,0,0,karaoke,*弹幕原文「把毛毯放在栅栏上就可以跳过栅栏了」
+Dialogue: 0,0:13:27.30,0:13:29.98,爱丽丝CN,kusapeko,0,0,0,karaoke,毛毯要怎么制作呢？
+Dialogue: 0,0:13:30.73,0:13:32.06,爱丽丝CN,kusapeko,0,0,0,karaoke,毛毯是...
+Dialogue: 0,0:13:32.58,0:13:33.48,爱丽丝CN,kusapeko,0,0,0,karaoke,这个吧！
+Dialogue: 0,0:13:34.33,0:13:35.77,爱丽丝CN,kusapeko,0,0,0,karaoke,辛苦了
+Dialogue: 0,0:13:37.14,0:13:38.93,爱丽丝CN,kusapeko,0,0,0,karaoke,好 毛毯做出来啦！
+Dialogue: 0,0:13:38.93,0:13:40.06,爱丽丝CN,kusapeko,0,0,0,karaoke,这样的话...(就可以跳过栅栏了)
+Dialogue: 0,0:13:41.69,0:13:43.98,爱丽丝CN,kusapeko,0,0,0,karaoke,毛毯~毛毯~
+Dialogue: 0,0:13:43.98,0:13:45.27,爱丽丝CN,kusapeko,0,0,0,karaoke,辛苦了
+Dialogue: 0,0:13:45.60,0:13:47.67,爱丽丝CN,kusapeko,0,0,0,karaoke,工作  辛苦了！
+Dialogue: 0,0:13:47.67,0:13:49.60,爱丽丝CN,kusapeko,0,0,0,karaoke,「工作」用中文怎么说呢
+Dialogue: 0,0:13:49.60,0:13:50.69,爱丽丝CN,kusapeko,0,0,0,karaoke,「仕事」
+Dialogue: 0,0:13:49.60,0:13:53.25,爱丽丝CN - 顶端,kusapeko,0,0,0,karaoke,*弹幕有人发「仕事辛苦了」\N「仕事」是「工作」的日语
+Dialogue: 0,0:13:49.60,0:13:50.69,爱丽丝CN,kusapeko,0,0,0,karaoke,{\fscx50\fscy50\pos(637.714,634.546)}  し   こと
+Dialogue: 0,0:13:50.69,0:13:53.30,爱丽丝CN,kusapeko,0,0,0,karaoke,那就 「仕事辛苦了」ww
+Dialogue: 0,0:13:50.69,0:13:53.30,爱丽丝CN,kusapeko,0,0,0,karaoke,{\fscx50\fscy50\pos(585.143,634.546)}  し   こと
+Dialogue: 0,0:13:53.30,0:13:54.58,爱丽丝CN,kusapeko,0,0,0,karaoke,仕事www
+Dialogue: 0,0:13:54.58,0:13:56.03,爱丽丝CN,kusapeko,0,0,0,karaoke,欸 这个毯子该怎么放上去？
+Dialogue: 0,0:13:56.02,0:13:57.09,爱丽丝CN,kusapeko,0,0,0,karaoke,这样嘛
+Dialogue: 0,0:13:57.09,0:13:57.90,爱丽丝CN,kusapeko,0,0,0,karaoke,啊咧？
+Dialogue: 0,0:13:59.97,0:14:01.32,爱丽丝CN,kusapeko,0,0,0,karaoke,放不上...放...
+Dialogue: 0,0:14:01.32,0:14:02.50,爱丽丝CN,kusapeko,0,0,0,karaoke,啊 放上去了x3
+Dialogue: 0,0:14:02.50,0:14:03.52,爱丽丝CN,kusapeko,0,0,0,karaoke,就是这样？
+Dialogue: 0,0:14:03.83,0:14:04.93,爱丽丝CN,kusapeko,0,0,0,karaoke,原来如此呢w
+Dialogue: 0,0:14:05.97,0:14:07.03,爱丽丝CN,kusapeko,0,0,0,karaoke,这样就可以了嘛？
+Dialogue: 0,0:14:07.43,0:14:08.93,爱丽丝CN,kusapeko,0,0,0,karaoke,gon... 「工作」
+Dialogue: 0,0:14:08.93,0:14:10.77,爱丽丝CN,kusapeko,0,0,0,karaoke,「工作辛苦了」
+Dialogue: 0,0:14:10.77,0:14:13.23,爱丽丝CN,kusapeko,0,0,0,karaoke,工作...工作辛苦啦
+Dialogue: 0,0:14:14.15,0:14:15.97,爱丽丝CN,kusapeko,0,0,0,karaoke,辛苦了？辛苦啦
+Dialogue: 0,0:14:16.23,0:14:17.79,爱丽丝CN,kusapeko,0,0,0,karaoke,工作辛苦啦
+Dialogue: 0,0:14:17.79,0:14:20.21,爱丽丝CN,kusapeko,0,0,0,karaoke,贡座↗工作↘
+Dialogue: 0,0:14:21.25,0:14:23.31,爱丽丝CN,kusapeko,0,0,0,karaoke,拱做 工作
+Dialogue: 0,0:14:23.31,0:14:24.85,爱丽丝CN,kusapeko,0,0,0,karaoke,「工作辛苦啦」
+Dialogue: 0,0:14:25.76,0:14:27.34,爱丽丝CN,kusapeko,0,0,0,karaoke,工作辛苦啦↘！
+Dialogue: 0,0:14:28.29,0:14:30.16,爱丽丝CN,kusapeko,0,0,0,karaoke,(骷髅)又有了x4
+Dialogue: 0,0:14:30.16,0:14:32.14,爱丽丝CN,kusapeko,0,0,0,karaoke,又有了了了了噜噜噜
+Dialogue: 0,0:14:38.17,0:14:39.15,爱丽丝CN,kusapeko,0,0,0,karaoke,要射了哦？
+Dialogue: 0,0:14:41.12,0:14:42.53,爱丽丝CN,kusapeko,0,0,0,karaoke,干掉了嘛？
+Dialogue: 0,0:14:42.53,0:14:44.37,爱丽丝CN,kusapeko,0,0,0,karaoke,干掉了嘛？ 物述有栖...啊
+Dialogue: 0,0:14:44.37,0:14:46.15,爱丽丝CN,kusapeko,0,0,0,karaoke,好厉害！爱丽丝！
+Dialogue: 0,0:14:46.58,0:14:48.71,爱丽丝CN,kusapeko,0,0,0,karaoke,什么啊...我的枪法还挺准的嘛
+Dialogue: 0,0:14:50.27,0:14:52.30,爱丽丝CN,kusapeko,0,0,0,karaoke,这个 虫蚀的
+Dialogue: 0,0:14:52.30,0:14:54.11,爱丽丝CN,kusapeko,0,0,0,karaoke,w 虫蚀蘑菇啊(指自己的家)
+Dialogue: 0,0:14:54.11,0:14:55.86,爱丽丝CN,kusapeko,0,0,0,karaoke,好像也没有被虫蚀的样子呢
+Dialogue: 0,0:14:55.86,0:14:56.85,爱丽丝CN,kusapeko,0,0,0,karaoke,说起来的话
+Dialogue: 0,0:14:58.90,0:15:01.40,爱丽丝CN,kusapeko,0,0,0,karaoke,今天 做什么比较好呐...
+Dialogue: 0,0:15:01.82,0:15:03.24,爱丽丝CN,kusapeko,0,0,0,karaoke,总之
+Dialogue: 0,0:15:03.24,0:15:04.96,爱丽丝CN,kusapeko,0,0,0,karaoke,白桦树什么的
+Dialogue: 0,0:15:09.80,0:15:11.42,爱丽丝CN,kusapeko,0,0,0,karaoke,工作辛苦了
+Dialogue: 0,0:15:11.42,0:15:13.35,爱丽丝CN,kusapeko,0,0,0,karaoke,记住啦 工作辛苦了
+Dialogue: 0,0:15:13.35,0:15:14.64,爱丽丝CN,kusapeko,0,0,0,karaoke,然后...
+Dialogue: 0,0:15:16.92,0:15:19.45,爱丽丝CN,kusapeko,0,0,0,karaoke,刚刚在耕田里跳了啊 爱丽丝
+Dialogue: 0,0:15:16.92,0:15:19.45,爱丽丝CN - 顶端,kusapeko,0,0,0,karaoke,*弹幕有人说「在耕田里跳了之后会踩坏田的」
+Dialogue: 0,0:15:20.08,0:15:21.96,爱丽丝CN,kusapeko,0,0,0,karaoke,啊 有什么东西在那x3
+Dialogue: 0,0:15:23.06,0:15:24.02,爱丽丝CN,kusapeko,0,0,0,karaoke,都已经烧起来了
+Dialogue: 0,0:15:24.02,0:15:25.37,爱丽丝CN,kusapeko,0,0,0,karaoke,(见到太阳)马上就烧起来了
+Dialogue: 0,0:15:27.12,0:15:28.27,爱丽丝CN,kusapeko,0,0,0,karaoke,好
+Dialogue: 0,0:15:28.96,0:15:30.97,爱丽丝CN,kusapeko,0,0,0,karaoke,然后再过去把经验值...
+Dialogue: 0,0:15:31.78,0:15:32.80,爱丽丝CN,kusapeko,0,0,0,karaoke,收集起来
+Dialogue: 0,0:15:32.80,0:15:35.68,爱丽丝CN,kusapeko,0,0,0,karaoke,爱丽丝 突然变得熟练了不是嘛？
+Dialogue: 0,0:15:41.12,0:15:42.65,爱丽丝CN,kusapeko,0,0,0,karaoke,这个声音稍微有点吵呐
+Dialogue: 0,0:15:47.23,0:16:04.81,爱丽丝CN,kusapeko,0,0,0,karaoke,♪♪♪
+Dialogue: 0,0:16:05.09,0:16:06.82,爱丽丝CN,kusapeko,0,0,0,karaoke,射手哟 射手
+Dialogue: 0,0:16:07.73,0:16:09.51,爱丽丝CN,kusapeko,0,0,0,karaoke,「流镝马」呢
+Dialogue: 0,0:16:07.73,0:16:09.51,爱丽丝CN - 顶端,kusapeko,0,0,0,karaoke,*流镝马：指骑在奔驰的骏马上朝准目标射箭的一种运动
+Dialogue: 0,0:16:10.82,0:16:13.27,爱丽丝CN,kusapeko,0,0,0,karaoke,是凛酱教我的
+Dialogue: 0,0:16:18.41,0:16:19.46,爱丽丝CN,kusapeko,0,0,0,karaoke,骨头啊
+Dialogue: 0,0:16:25.70,0:16:28.24,爱丽丝CN,kusapeko,0,0,0,karaoke,这个！ 这个「说 好 不 哭」的歌
+Dialogue: 0,0:16:25.70,0:16:28.24,爱丽丝CN,kusapeko,0,0,0,karaoke,{\fscx50\fscy50\pos(718.143,634.546)}  せつ　すき　ふ　こく
+Dialogue: 0,0:16:28.24,0:16:29.61,爱丽丝CN,kusapeko,0,0,0,karaoke,叫什么来着？
+Dialogue: 0,0:16:29.61,0:16:30.80,爱丽丝CN,kusapeko,0,0,0,karaoke,这个曲名
+Dialogue: 0,0:16:30.80,0:16:32.22,爱丽丝CN,kusapeko,0,0,0,karaoke,曲名的...
+Dialogue: 0,0:16:32.86,0:16:34.81,爱丽丝CN,kusapeko,0,0,0,karaoke,那个什么(中文读法)...不知道
+Dialogue: 0,0:16:35.90,0:16:37.49,爱丽丝CN,kusapeko,0,0,0,karaoke,那个 那个 那个什么来着
+Dialogue: 0,0:16:37.49,0:16:39.45,爱丽丝CN,kusapeko,0,0,0,karaoke,那个曲名我读不来
+Dialogue: 0,0:16:39.45,0:16:40.44,爱丽丝CN,kusapeko,0,0,0,karaoke,什么来着
+Dialogue: 0,0:16:48.75,0:16:50.48,爱丽丝CN,kusapeko,0,0,0,karaoke,kurenai完全不对吧？
+Dialogue: 0,0:16:48.75,0:16:50.48,爱丽丝CN - 顶端,kusapeko,0,0,0,karaoke,*kurenai：X-Japan乐队的一首歌
+Dialogue: 0,0:16:51.89,0:16:54.31,爱丽丝CN,kusapeko,0,0,0,karaoke,kurenai 开头是怎么唱的来着
+Dialogue: 0,0:16:54.31,0:16:55.74,爱丽丝CN,kusapeko,0,0,0,karaoke,kurenai的开头...
+Dialogue: 0,0:16:57.08,0:16:58.18,爱丽丝CN,kusapeko,0,0,0,karaoke,kurenai...
+Dialogue: 0,0:17:03.85,0:17:05.62,爱丽丝CN,kusapeko,0,0,0,karaoke,啊 等等 我好像不知道了ww
+Dialogue: 0,0:17:06.20,0:17:07.41,爱丽丝CN,kusapeko,0,0,0,karaoke,什么来着？
+Dialogue: 0,0:17:07.41,0:17:08.30,爱丽丝CN,kusapeko,0,0,0,karaoke,什么来着？
+Dialogue: 0,0:17:08.30,0:17:11.18,songs,kusapeko,0,0,0,karaoke,能唤醒我心
+Dialogue: 0,0:17:08.30,0:17:11.18,songs - 顶端,kusapeko,0,0,0,karaoke,红に染まった
+Dialogue: 0,0:17:11.18,0:17:13.50,songs,kusapeko,0,0,0,karaoke,安慰这个
+Dialogue: 0,0:17:11.18,0:17:13.50,songs - 顶端,kusapeko,0,0,0,karaoke,この俺を
+Dialogue: 0,0:17:14.02,0:17:17.06,songs,kusapeko,0,0,0,karaoke,被染成红色的我的人
+Dialogue: 0,0:17:14.02,0:17:17.06,songs - 顶端,kusapeko,0,0,0,karaoke,慰める奴は
+Dialogue: 0,0:17:17.06,0:17:19.41,songs,kusapeko,0,0,0,karaoke,已经没有了
+Dialogue: 0,0:17:17.06,0:17:19.41,songs - 顶端,kusapeko,0,0,0,karaoke,もういない
+Dialogue: 0,0:17:21.57,0:17:23.00,songs,kusapeko,0,0,0,karaoke,在风暴席卷的
+Dialogue: 0,0:17:21.57,0:17:23.00,songs - 顶端,kusapeko,0,0,0,karaoke,嵐吹く
+Dialogue: 0,0:17:23.00,0:17:24.46,songs,kusapeko,0,0,0,karaoke,这个街道里
+Dialogue: 0,0:17:23.00,0:17:24.46,songs - 顶端,kusapeko,0,0,0,karaoke,この街が
+Dialogue: 0,0:17:24.46,0:17:26.68,songs,kusapeko,0,0,0,karaoke,@#￥%着你(拥抱着你)
+Dialogue: 0,0:17:24.46,0:17:26.68,songs - 顶端,kusapeko,0,0,0,karaoke,お前を@#￥%
+Dialogue: 0,0:17:44.34,0:17:45.38,爱丽丝CN,kusapeko,0,0,0,karaoke,这个啊~
+Dialogue: 0,0:17:46.20,0:17:47.93,爱丽丝CN,kusapeko,0,0,0,karaoke,但是 完全 感觉完全不一样呢
+Dialogue: 0,0:17:47.93,0:17:49.54,爱丽丝CN,kusapeko,0,0,0,karaoke,跟着伴奏唱的时候
+Dialogue: 0,0:17:50.65,0:17:51.59,爱丽丝CN,kusapeko,0,0,0,karaoke,因为
+Dialogue: 0,0:17:51.59,0:17:53.63,爱丽丝CN,kusapeko,0,0,0,karaoke,因为应该温柔一些  对吧
+Dialogue: 0,0:17:56.73,0:17:58.00,爱丽丝CN,kusapeko,0,0,0,karaoke,kurenai...
+Dialogue: 0,0:17:58.40,0:18:00.08,爱丽丝CN,kusapeko,0,0,0,karaoke,不是kurenai  kurenai是...
+Dialogue: 0,0:18:00.08,0:18:01.54,爱丽丝CN,kusapeko,0,0,0,karaoke,完全不温柔
+Dialogue: 0,0:18:03.25,0:18:05.29,爱丽丝CN,kusapeko,0,0,0,karaoke,「风格很像」很像？
+Dialogue: 0,0:18:06.61,0:18:08.67,爱丽丝CN,kusapeko,0,0,0,karaoke,欸等等 好像忘记了
+Dialogue: 0,0:18:08.67,0:18:10.04,爱丽丝CN,kusapeko,0,0,0,karaoke,哪个调是哪首歌的
+Dialogue: 0,0:18:25.66,0:18:26.63,爱丽丝CN,kusapeko,0,0,0,karaoke,对吧？
+Dialogue: 0,0:18:27.72,0:18:29.00,songs,kusapeko,0,0,0,karaoke,独自面向
+Dialogue: 0,0:18:27.72,0:18:29.00,songs - 顶端,kusapeko,0,0,0,karaoke,閉ざされた
+Dialogue: 0,0:18:29.00,0:18:30.73,songs,kusapeko,0,0,0,karaoke,封锁的爱
+Dialogue: 0,0:18:29.00,0:18:30.73,songs - 顶端,kusapeko,0,0,0,karaoke,愛に向い
+Dialogue: 0,0:18:39.57,0:18:40.83,爱丽丝CN,kusapeko,0,0,0,karaoke,唱得像嘛...www
+Dialogue: 0,0:18:43.16,0:18:44.36,爱丽丝CN,kusapeko,0,0,0,karaoke,「唱得很像」？
+Dialogue: 0,0:18:59.72,0:19:01.26,爱丽丝CN,kusapeko,0,0,0,karaoke,「好吵啊」「好大一个蘑菇」
+Dialogue: 0,0:19:01.26,0:19:02.45,爱丽丝CN,kusapeko,0,0,0,karaoke,你们干啥？？ww
+Dialogue: 0,0:19:02.45,0:19:03.18,爱丽丝CN,kusapeko,0,0,0,karaoke,????????茶叶佬确定这里是一句话...?
+Dialogue: 0,0:19:03.18,0:19:05.30,爱丽丝CN,kusapeko,0,0,0,karaoke,爱丽丝才不是蘑菇呢
+Dialogue: 0,0:19:07.46,0:19:09.03,爱丽丝CN,kusapeko,0,0,0,karaoke,把这个 修好
+Dialogue: 0,0:19:09.03,0:19:10.76,爱丽丝CN,kusapeko,0,0,0,karaoke,啊这边好像更好一点...
+Dialogue: 0,0:19:10.76,0:19:11.60,爱丽丝CN,kusapeko,0,0,0,karaoke,这边好像...
+Dialogue: 0,0:19:11.60,0:19:13.47,爱丽丝CN,kusapeko,0,0,0,karaoke,把窗给破了！
+Dialogue: 0,0:19:13.47,0:19:14.97,爱丽丝CN,kusapeko,0,0,0,karaoke,用超音波
+Dialogue: 0,0:19:16.01,0:19:16.77,爱丽丝CN,kusapeko,0,0,0,karaoke,好
+Dialogue: 0,0:19:16.77,0:19:18.68,songs,kusapeko,0,0,0,karaoke,能唤醒我心
+Dialogue: 0,0:19:16.77,0:19:18.68,songs - 顶端,kusapeko,0,0,0,karaoke,红に
+Dialogue: 0,0:19:18.68,0:19:20.32,songs,kusapeko,0,0,0,karaoke,安慰这个
+Dialogue: 0,0:19:18.68,0:19:20.32,songs - 顶端,kusapeko,0,0,0,karaoke,染まった
+Dialogue: 0,0:19:20.32,0:19:22.84,songs,kusapeko,0,0,0,karaoke,被染成
+Dialogue: 0,0:19:20.32,0:19:22.84,songs - 顶端,kusapeko,0,0,0,karaoke,この俺を
+Dialogue: 0,0:19:23.43,0:19:24.81,songs,kusapeko,0,0,0,karaoke,红色的我
+Dialogue: 0,0:19:23.43,0:19:24.81,songs - 顶端,kusapeko,0,0,0,karaoke,慰め
+Dialogue: 0,0:19:24.81,0:19:26.68,songs,kusapeko,0,0,0,karaoke,的人
+Dialogue: 0,0:19:24.81,0:19:26.68,songs - 顶端,kusapeko,0,0,0,karaoke,る奴は
+Dialogue: 0,0:19:26.68,0:19:29.26,songs,kusapeko,0,0,0,karaoke,已经没有了
+Dialogue: 0,0:19:26.68,0:19:29.26,songs - 顶端,kusapeko,0,0,0,karaoke,もういない
+Dialogue: 0,0:19:29.52,0:19:31.19,爱丽丝CN,kusapeko,0,0,0,karaoke,好 用超音波
+Dialogue: 0,0:19:31.19,0:19:32.58,爱丽丝CN,kusapeko,0,0,0,karaoke,把窗户
+Dialogue: 0,0:19:33.28,0:19:34.45,爱丽丝CN,kusapeko,0,0,0,karaoke,破坏掉了
+Dialogue: 0,0:19:37.86,0:19:38.69,爱丽丝CN,kusapeko,0,0,0,karaoke,好暗
+Dialogue: 0,0:19:39.26,0:19:40.13,爱丽丝CN,kusapeko,0,0,0,karaoke,好的
+Dialogue: 0,0:19:40.45,0:19:41.43,爱丽丝CN,kusapeko,0,0,0,karaoke,超音波
+Dialogue: 0,0:19:41.43,0:19:42.72,爱丽丝CN,kusapeko,0,0,0,karaoke,完成了
+Dialogue: 0,0:19:43.02,0:19:44.90,爱丽丝CN,kusapeko,0,0,0,karaoke,怎么感觉好像有光透进来了呢？
+Dialogue: 0,0:19:47.97,0:19:49.58,爱丽丝CN,kusapeko,0,0,0,karaoke,用超音波~
+Dialogue: 0,0:19:50.11,0:19:52.83,爱丽丝CN,kusapeko,0,0,0,karaoke,破坏窗户的 物述有栖
+Dialogue: 0,0:19:52.83,0:19:54.78,爱丽丝CN,kusapeko,0,0,0,karaoke,那个 火把
+Dialogue: 0,0:19:55.55,0:19:57.40,爱丽丝CN,kusapeko,0,0,0,karaoke,火把 最重要
+Dialogue: 0,0:20:00.26,0:20:02.04,爱丽丝CN,kusapeko,0,0,0,karaoke,拿成鸡蛋 手里拿成鸡蛋了
+Dialogue: 0,0:20:02.04,0:20:03.78,爱丽丝CN,kusapeko,0,0,0,karaoke,还以为是火把
+Dialogue: 0,0:20:05.28,0:20:07.88,爱丽丝CN,kusapeko,0,0,0,karaoke,「为什么我什么都听不到了啊」
+Dialogue: 0,0:20:07.88,0:20:10.03,爱丽丝CN,kusapeko,0,0,0,karaoke,回答这个很简单
+Dialogue: 0,0:20:10.03,0:20:11.32,爱丽丝CN,kusapeko,0,0,0,karaoke,要问为什么的话
+Dialogue: 0,0:20:11.32,0:20:13.40,爱丽丝CN,kusapeko,0,0,0,karaoke,是因为物述有栖的超音波
+Dialogue: 0,0:20:13.40,0:20:14.50,爱丽丝CN,kusapeko,0,0,0,karaoke,耳朵被...啊！
+Dialogue: 0,0:20:14.50,0:20:16.18,爱丽丝CN,kusapeko,0,0,0,karaoke,不会吧？ 这里是...
+Dialogue: 0,0:20:16.43,0:20:17.75,爱丽丝CN,kusapeko,0,0,0,karaoke,这里是天花板...
+Dialogue: 0,0:20:18.51,0:20:19.37,爱丽丝CN,kusapeko,0,0,0,karaoke,好的
+Dialogue: 0,0:20:19.37,0:20:20.48,爱丽丝CN,kusapeko,0,0,0,karaoke,修好了
+Dialogue: 0,0:20:21.18,0:20:22.70,爱丽丝CN,kusapeko,0,0,0,karaoke,记得好像确实是想把玻璃
+Dialogue: 0,0:20:22.70,0:20:25.18,爱丽丝CN,kusapeko,0,0,0,karaoke,装在天花板的来着...
+Dialogue: 0,0:20:25.75,0:20:27.24,爱丽丝CN,kusapeko,0,0,0,karaoke,
+Dialogue: 0,0:20:35.98,0:20:37.05,爱丽丝CN,kusapeko,0,0,0,karaoke,啊咧？！
+Dialogue: 0,0:20:37.05,0:20:39.20,爱丽丝CN,kusapeko,0,0,0,karaoke,啊等等！真的是一样的(指kurenai的调调)
+Dialogue: 0,0:20:40.59,0:20:41.71,爱丽丝CN,kusapeko,0,0,0,karaoke,把kurenai
+Dialogue: 0,0:20:41.71,0:20:43.73,爱丽丝CN,kusapeko,0,0,0,karaoke,温柔一点唱的话
+Dialogue: 0,0:20:43.73,0:20:45.04,爱丽丝CN,kusapeko,0,0,0,karaoke,就变成那首歌了
+Dialogue: 0,0:20:45.62,0:20:46.96,爱丽丝CN,kusapeko,0,0,0,karaoke,变成那首歌了(指《说好不哭》？)
+Dialogue: 0,0:20:55.13,0:20:56.94,爱丽丝CN,kusapeko,0,0,0,karaoke,要更温柔一点唱kurenai...？
