@@ -15,10 +15,10 @@ Audio File: 物述有栖_191220_2102_BiliBili_【B限】来自中国的礼物？
 Video File: 物述有栖_191220_2102_BiliBili_【B限】来自中国的礼物？!.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 261
-Active Line: 276
-Video Position: 80391
+Video Zoom Percent: 0.625000
+Scroll Position: 140
+Active Line: 148
+Video Position: 68033
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -181,8 +181,8 @@ Dialogue: 0,0:37:21.33,0:37:22.72,爱丽丝CN,,0,0,0,,我看看
 Dialogue: 0,0:37:23.00,0:37:24.25,爱丽丝CN,,0,0,0,,这个是
 Dialogue: 0,0:37:25.87,0:37:27.09,爱丽丝CN,,0,0,0,,这个是…
 Dialogue: 0,0:37:29.38,0:37:31.58,爱丽丝CN,,0,0,0,,拍照的时候会卷起来啊
-Dialogue: 0,0:37:33.73,0:37:35.88,爱丽丝CN,,0,0,0,,这个用四角型的照比较好吗
-Dialogue: 0,0:37:36.33,0:37:38.63,爱丽丝CN,,0,0,0,,用四角型的照
+Dialogue: 0,0:37:33.73,0:37:36.33,爱丽丝CN,,0,0,0,,用方形功能拍比较好吗
+Dialogue: 0,0:37:36.33,0:37:38.63,爱丽丝CN,,0,0,0,,用方形功能拍
 Dialogue: 0,0:37:40.93,0:37:41.87,爱丽丝CN,,0,0,0,,啪沙~
 Dialogue: 0,0:37:41.87,0:37:43.34,爱丽丝CN,,0,0,0,,另一个~
 Dialogue: 0,0:37:43.34,0:37:45.49,爱丽丝CN,,0,0,0,,哎  两个都很可爱啊
@@ -439,7 +439,7 @@ Dialogue: 0,0:50:44.45,0:50:47.95,爱丽丝CN,,0,0,0,,不过晨练也是  如果
 Dialogue: 0,0:50:47.95,0:50:49.29,爱丽丝CN,,0,0,0,,啊不过实际上
 Dialogue: 0,0:50:49.29,0:50:52.32,爱丽丝CN,,0,0,0,,大概明年在bilibili
 Dialogue: 0,0:50:52.32,0:50:55.62,爱丽丝CN,,0,0,0,,爱丽丝也会出一些别的形式…
-Dialogue: 0,0:50:55.62,0:50:59.65,爱丽丝CN,,0,0,0,,虽说是「别的形式」但实际上还是爱丽丝就是了  也能看到了
+Dialogue: 0,0:50:55.62,0:50:59.65,爱丽丝CN,,0,0,0,,虽说是「别的形式」但还是爱丽丝就是了  也能看到了
 Dialogue: 0,0:50:59.65,0:51:03.58,爱丽丝CN,,0,0,0,,我会留意有没有什么能告诉大家的情报的
 Dialogue: 0,0:51:03.58,0:51:06.82,爱丽丝CN,,0,0,0,,还尽请期待
 Dialogue: 0,0:51:06.82,0:51:08.82,爱丽丝CN,,0,0,0,,那个什么  对了！
